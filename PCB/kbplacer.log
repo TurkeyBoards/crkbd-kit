@@ -1,0 +1,276 @@
+[kbplacer_plugin_action.py:65]: Plugin version: 0.12
+[kbplacer_plugin_action.py:66]: Python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:67]: KiCad version: 8.0.6 with 4.2.2 msw (phoenix) wxWidgets 3.2.6
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:75]: GUI state: {"layout_path": "C:\\Users\\JamesStull\\OneDrive - Turkey Systems LLC\\Documents\\Projects\\Keyboards\\Turkey-Corne\\Turkey-Corne-Kit\\crkbd-left-keyboard-layout-2.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "SW{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": true, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"x": 5.08, "y": 3.03, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": true, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[key_placer.py:361]: Set key 1U distance: 19050000/19050000
+[key_placer.py:123]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'col5', 'Net-(D21-Pad)'}): ['SW21'], frozenset({'col4', 'Net-(D20-Pad)'}): ['SW20'], frozenset({'Net-(D19-Pad)', 'col3'}): ['SW19'], frozenset({'col5', 'Net-(D18-Pad)'}): ['SW18'], frozenset({'col4', 'Net-(D17-Pad)'}): ['SW17'], frozenset({'Net-(D16-Pad)', 'col3'}): ['SW16'], frozenset({'col2', 'Net-(D15-Pad)'}): ['SW15'], frozenset({'col1', 'Net-(D14-Pad)'}): ['SW14'], frozenset({'Net-(D13-Pad)', 'col0'}): ['SW13'], frozenset({'Net-(D12-Pad)', 'col5'}): ['SW12'], frozenset({'Net-(D11-Pad)', 'col4'}): ['SW11'], frozenset({'Net-(D10-Pad)', 'col3'}): ['SW10'], frozenset({'col2', 'Net-(D9-Pad)'}): ['SW9'], frozenset({'col1', 'Net-(D8-Pad)'}): ['SW8'], frozenset({'col0', 'Net-(D7-Pad)'}): ['SW7'], frozenset({'col5', 'Net-(D6-Pad)'}): ['SW6'], frozenset({'col4', 'Net-(D5-Pad)'}): ['SW5'], frozenset({'Net-(D4-Pad)', 'col3'}): ['SW4'], frozenset({'Net-(D3-Pad)', 'col2'}): ['SW3'], frozenset({'col1', 'Net-(D2-Pad)'}): ['SW2'], frozenset({'Net-(D1-Pad)', 'col0'}): ['SW1']})
+[key_placer.py:127]: Diodes by switch: {}
+[kle_serial.py:897]: User layout: [[{'y': 1, 'x': 3.5}, 'sw4'], [{'y': -0.875, 'x': 2.5}, 'sw3', {'x': 1}, 'sw5'], [{'y': -0.875, 'x': 5.5}, 'sw6'], [{'y': -0.875, 'x': 0.5}, 'sw1', 'sw2'], [{'y': -0.375, 'x': 3.5}, 'sw10'], [{'y': -0.875, 'x': 2.5}, 'sw9', {'x': 1}, 'sw11'], [{'y': -0.875, 'x': 5.5}, 'sw12'], [{'y': -0.875, 'x': 0.5}, 'sw7', 'sw8'], [{'y': -0.375, 'x': 3.5}, 'sw16'], [{'y': -0.875, 'x': 2.5}, 'sw15', {'x': 1}, 'sw17'], [{'y': -0.875, 'x': 5.5}, 'sw18'], [{'y': -0.875, 'x': 0.5}, 'sw13', 'sw14'], [{'y': -0.125, 'x': 4}, 'sw19'], [{'r': 15, 'rx': 4.5, 'ry': 9.1, 'y': -4.85, 'x': -0.5}, 'sw20'], [{'r': 30, 'rx': 5.4, 'ry': 9.3, 'y': -5.05, 'x': -1.4000000000000004, 'h': 1.5}, 'sw21']]
+[key_placer.py:661]: Layout offset: (38100000, 28575000)
+[board_modifier.py:85]: Setting SW1 footprint position: (114300000, 57150000)
+[board_modifier.py:85]: Setting SW2 footprint position: (95250000, 59531250)
+[board_modifier.py:85]: Setting SW3 footprint position: (133350000, 59531250)
+[board_modifier.py:85]: Setting SW4 footprint position: (152400000, 61912500)
+[board_modifier.py:85]: Setting SW5 footprint position: (57150000, 64293750)
+[board_modifier.py:85]: Setting SW6 footprint position: (76200000, 64293750)
+[board_modifier.py:85]: Setting SW7 footprint position: (114300000, 76200000)
+[board_modifier.py:85]: Setting SW8 footprint position: (95250000, 78581250)
+[board_modifier.py:85]: Setting SW9 footprint position: (133350000, 78581250)
+[board_modifier.py:85]: Setting SW10 footprint position: (152400000, 80962500)
+[board_modifier.py:85]: Setting SW11 footprint position: (57150000, 83343750)
+[board_modifier.py:85]: Setting SW12 footprint position: (76200000, 83343750)
+[board_modifier.py:85]: Setting SW13 footprint position: (114300000, 95250000)
+[board_modifier.py:85]: Setting SW14 footprint position: (95250000, 97631250)
+[board_modifier.py:85]: Setting SW15 footprint position: (133350000, 97631250)
+[board_modifier.py:85]: Setting SW16 footprint position: (152400000, 100012500)
+[board_modifier.py:85]: Setting SW17 footprint position: (57150000, 102393750)
+[board_modifier.py:85]: Setting SW18 footprint position: (76200000, 102393750)
+[board_modifier.py:85]: Setting SW19 footprint position: (123825000, 119062500)
+[board_modifier.py:85]: Setting SW20 footprint position: (123825000, 119062500)
+[board_modifier.py:85]: Setting SW21 footprint position: (123825000, 123825000)
+[key_placer.py:996]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.DEFAULT: 'Default'>, position=ElementPosition(x=5.08, y=3.03, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[board_modifier.py:98]: Getting SW1 footprint position: (114300000, 57150000)
+[board_modifier.py:98]: Getting SW2 footprint position: (95250000, 59531250)
+[board_modifier.py:98]: Getting SW3 footprint position: (133350000, 59531250)
+[board_modifier.py:98]: Getting SW4 footprint position: (152400000, 61912500)
+[board_modifier.py:98]: Getting SW5 footprint position: (57150000, 64293750)
+[board_modifier.py:98]: Getting SW6 footprint position: (76200000, 64293750)
+[board_modifier.py:98]: Getting SW7 footprint position: (114300000, 76200000)
+[board_modifier.py:98]: Getting SW8 footprint position: (95250000, 78581250)
+[board_modifier.py:98]: Getting SW9 footprint position: (133350000, 78581250)
+[board_modifier.py:98]: Getting SW10 footprint position: (152400000, 80962500)
+[board_modifier.py:98]: Getting SW11 footprint position: (57150000, 83343750)
+[board_modifier.py:98]: Getting SW12 footprint position: (76200000, 83343750)
+[board_modifier.py:98]: Getting SW13 footprint position: (114300000, 95250000)
+[board_modifier.py:98]: Getting SW14 footprint position: (95250000, 97631250)
+[board_modifier.py:98]: Getting SW15 footprint position: (133350000, 97631250)
+[board_modifier.py:98]: Getting SW16 footprint position: (152400000, 100012500)
+[board_modifier.py:98]: Getting SW17 footprint position: (57150000, 102393750)
+[board_modifier.py:98]: Getting SW18 footprint position: (76200000, 102393750)
+[board_modifier.py:98]: Getting SW19 footprint position: (123825000, 119062500)
+[board_modifier.py:98]: Getting SW20 footprint position: (145272687, 121886142)
+[board_modifier.py:98]: Getting SW21 footprint position: (167079494, 126227029)
+[key_placer.py:774]: Placing additional elements for SW21
+[board_modifier.py:98]: Getting SW21 footprint position: (167079494, 126227029)
+[board_modifier.py:75]: Searching for optional ST21 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW20
+[board_modifier.py:98]: Getting SW20 footprint position: (145272687, 121886142)
+[board_modifier.py:75]: Searching for optional ST20 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW19
+[board_modifier.py:98]: Getting SW19 footprint position: (123825000, 119062500)
+[board_modifier.py:75]: Searching for optional ST19 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW18
+[board_modifier.py:98]: Getting SW18 footprint position: (76200000, 102393750)
+[board_modifier.py:75]: Searching for optional ST18 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW17
+[board_modifier.py:98]: Getting SW17 footprint position: (57150000, 102393750)
+[board_modifier.py:75]: Searching for optional ST17 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW16
+[board_modifier.py:98]: Getting SW16 footprint position: (152400000, 100012500)
+[board_modifier.py:75]: Searching for optional ST16 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW15
+[board_modifier.py:98]: Getting SW15 footprint position: (133350000, 97631250)
+[board_modifier.py:75]: Searching for optional ST15 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW14
+[board_modifier.py:98]: Getting SW14 footprint position: (95250000, 97631250)
+[board_modifier.py:75]: Searching for optional ST14 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW13
+[board_modifier.py:98]: Getting SW13 footprint position: (114300000, 95250000)
+[board_modifier.py:75]: Searching for optional ST13 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW12
+[board_modifier.py:98]: Getting SW12 footprint position: (76200000, 83343750)
+[board_modifier.py:75]: Searching for optional ST12 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW11
+[board_modifier.py:98]: Getting SW11 footprint position: (57150000, 83343750)
+[board_modifier.py:75]: Searching for optional ST11 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW10
+[board_modifier.py:98]: Getting SW10 footprint position: (152400000, 80962500)
+[board_modifier.py:75]: Searching for optional ST10 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW9
+[board_modifier.py:98]: Getting SW9 footprint position: (133350000, 78581250)
+[board_modifier.py:75]: Searching for optional ST9 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW8
+[board_modifier.py:98]: Getting SW8 footprint position: (95250000, 78581250)
+[board_modifier.py:75]: Searching for optional ST8 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW7
+[board_modifier.py:98]: Getting SW7 footprint position: (114300000, 76200000)
+[board_modifier.py:75]: Searching for optional ST7 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW6
+[board_modifier.py:98]: Getting SW6 footprint position: (76200000, 64293750)
+[board_modifier.py:75]: Searching for optional ST6 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW5
+[board_modifier.py:98]: Getting SW5 footprint position: (57150000, 64293750)
+[board_modifier.py:75]: Searching for optional ST5 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW4
+[board_modifier.py:98]: Getting SW4 footprint position: (152400000, 61912500)
+[board_modifier.py:75]: Searching for optional ST4 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW3
+[board_modifier.py:98]: Getting SW3 footprint position: (133350000, 59531250)
+[board_modifier.py:75]: Searching for optional ST3 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW2
+[board_modifier.py:98]: Getting SW2 footprint position: (95250000, 59531250)
+[board_modifier.py:75]: Searching for optional ST2 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for SW1
+[board_modifier.py:98]: Getting SW1 footprint position: (114300000, 57150000)
+[board_modifier.py:75]: Searching for optional ST1 footprint in C:\Users\JamesStull\OneDrive - Turkey Systems LLC\Documents\Projects\Keyboards\Turkey-Corne\Turkey-Corne-Kit\Turkey-Corne-Kit.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:819]: Routing Net-(D1-Pad) pads
+[key_placer.py:819]: Routing col5 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW6:1' at (68387500, 77993750) with pad 'SW12:1' at (68387500, 97043750) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(68387500, 77993750), (68387500, 97043750)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW12:1' at (68387500, 97043750) with pad 'SW18:1' at (68387500, 116093750) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(68387500, 97043750), (68387500, 116093750)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:595]: Could not route pads when parent footprints not rotated the same, orientations: 0.0 and -30.0
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:595]: Could not route pads when parent footprints not rotated the same, orientations: -30.0 and 0.0
+[key_placer.py:819]: Routing col2 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW3:1' at (125537500, 73231250) with pad 'SW9:1' at (125537500, 92281250) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(125537500, 73231250), (125537500, 92281250)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW9:1' at (125537500, 92281250) with pad 'SW15:1' at (125537500, 111331250) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(125537500, 92281250), (125537500, 111331250)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW3:1' at (141400000, 73231250) with pad 'U1:18' at (183506400, 72850000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (B.Cu): [(141400000, 73231250), (183125150, 73231250)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[board_modifier.py:445]: Adding track segment (B.Cu): [(141400000, 73231250), (141781250, 72850000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:445]: Adding track segment (B.Cu): [(141781250, 72850000), (183506400, 72850000)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[key_placer.py:819]: Routing Net-(D9-Pad) pads
+[key_placer.py:819]: Routing Net-(D17-Pad) pads
+[key_placer.py:819]: Routing Net-(D4-Pad) pads
+[key_placer.py:819]: Routing Net-(D3-Pad) pads
+[key_placer.py:819]: Routing Net-(D6-Pad) pads
+[key_placer.py:819]: Routing col4 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW5:1' at (49337500, 77993750) with pad 'SW11:1' at (49337500, 97043750) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(49337500, 77993750), (49337500, 97043750)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW11:1' at (49337500, 97043750) with pad 'SW17:1' at (49337500, 116093750) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(49337500, 97043750), (49337500, 116093750)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:518]: Could not route pads, no common layers found
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:595]: Could not route pads when parent footprints not rotated the same, orientations: -15.0 and 0.0
+[key_placer.py:819]: Routing Net-(D21-Pad) pads
+[key_placer.py:819]: Routing Net-(D20-Pad) pads
+[key_placer.py:819]: Routing col1 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW2:1' at (87437500, 73231250) with pad 'SW8:1' at (87437500, 92281250) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(87437500, 73231250), (87437500, 92281250)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW8:1' at (87437500, 92281250) with pad 'SW14:1' at (87437500, 111331250) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(87437500, 92281250), (87437500, 111331250)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW2:1' at (103300000, 73231250) with pad 'U1:19' at (183506400, 70310000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (B.Cu): [(103300000, 73231250), (180585150, 73231250)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[board_modifier.py:445]: Adding track segment (B.Cu): [(103300000, 73231250), (106221250, 70310000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:445]: Adding track segment (B.Cu): [(106221250, 70310000), (183506400, 70310000)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[key_placer.py:819]: Routing Net-(D12-Pad) pads
+[key_placer.py:819]: Routing Net-(D11-Pad) pads
+[key_placer.py:819]: Routing Net-(D18-Pad) pads
+[key_placer.py:819]: Routing col0 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW1:1' at (106487500, 70850000) with pad 'SW7:1' at (106487500, 89900000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(106487500, 70850000), (106487500, 89900000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW7:1' at (106487500, 89900000) with pad 'SW13:1' at (106487500, 108950000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(106487500, 89900000), (106487500, 108950000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW1:1' at (122350000, 70850000) with pad 'U1:20' at (183506400, 67770000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (B.Cu): [(122350000, 70850000), (180426400, 70850000)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[board_modifier.py:445]: Adding track segment (B.Cu): [(122350000, 70850000), (125430000, 67770000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:445]: Adding track segment (B.Cu): [(125430000, 67770000), (183506400, 67770000)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[key_placer.py:819]: Routing Net-(D14-Pad) pads
+[key_placer.py:819]: Routing col3 pads
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW10:1' at (144587500, 94662500) with pad 'SW4:1' at (144587500, 75612500) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(144587500, 94662500), (144587500, 75612500)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:522]: Routing at F.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW16:1' at (144587500, 113712500) with pad 'SW10:1' at (144587500, 94662500) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (F.Cu): [(144587500, 113712500), (144587500, 94662500)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:518]: Could not route pads, no common layers found
+[board_modifier.py:522]: Routing at B.Cu layer
+[board_modifier.py:539]: Netclass: Default, track width: 200000
+[board_modifier.py:601]: Routing pad 'SW4:1' at (160450000, 75612500) with pad 'U1:17' at (183506400, 75390000) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:445]: Adding track segment (B.Cu): [(160450000, 75612500), (183283900, 75612500)]
+[board_modifier.py:455]: Could not add track segment due to detected collision
+[board_modifier.py:445]: Adding track segment (B.Cu): [(160450000, 75612500), (160672500, 75390000)]
+[board_modifier.py:450]: Track added
+[board_modifier.py:445]: Adding track segment (B.Cu): [(160672500, 75390000), (183506400, 75390000)]
+[board_modifier.py:450]: Track added
+[key_placer.py:819]: Routing Net-(D8-Pad) pads
+[key_placer.py:819]: Routing Net-(D13-Pad) pads
+[key_placer.py:819]: Routing Net-(D2-Pad) pads
+[key_placer.py:819]: Routing Net-(D16-Pad) pads
+[key_placer.py:819]: Routing Net-(D5-Pad) pads
+[key_placer.py:819]: Routing Net-(D19-Pad) pads
+[key_placer.py:819]: Routing Net-(D7-Pad) pads
+[key_placer.py:819]: Routing Net-(D10-Pad) pads
+[key_placer.py:819]: Routing Net-(D15-Pad) pads
+[key_placer.py:457]: Removing dangling tracks
+[key_placer.py:469]: Removing f8b2c3b0-05b1-4041-9a6f-bcf6e407298e
+[key_placer.py:469]: Removing c50d8f94-f1c3-457c-80b3-ec5452939c99
+[key_placer.py:469]: Removing 3d0b5849-8eee-439f-b314-258afc289651
+[key_placer.py:457]: Removing dangling tracks

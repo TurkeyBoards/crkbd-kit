@@ -1,0 +1,103 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "045d2ee7-3986-4d38-bc1c-ff181208b05f")
+	(paper "A4")
+	(title_block
+		(title "Turkey-Corne-Kit")
+		(date "2024-10-09")
+		(company "TurkeyBoards")
+	)
+	(lib_symbols)
+	(sheet
+		(at 54.61 57.15)
+		(size 59.69 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44b674c7-0f30-4813-bf5d-b4ab62de793e")
+		(property "Sheetname" "LEFT"
+			(at 54.61 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "left.kicad_sch"
+			(at 54.61 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 151.13 57.15)
+		(size 69.85 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9006166-6841-4321-9155-e597580b910a")
+		(property "Sheetname" "RIGHT"
+			(at 151.13 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "right.kicad_sch"
+			(at 151.13 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

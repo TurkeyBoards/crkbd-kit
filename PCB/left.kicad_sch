@@ -1,0 +1,11528 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "48063893-15ee-4ec2-a69e-07afb5bc5d06")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Diode-1N4148W_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Diode-1N4148W_1_0_1"
+				(polyline
+					(pts
+						(xy -2.54 -3.81) (xy 2.54 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -3.81) (xy -1.27 -5.08) (xy -1.27 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Diode-1N4148W_1_1_1"
+				(pin passive line
+					(at -5.08 -3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:Diode-1N4148W"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Diode-1N4148W_0_1"
+				(polyline
+					(pts
+						(xy -2.54 -3.81) (xy 2.54 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -3.81) (xy -1.27 -5.08) (xy -1.27 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Diode-1N4148W_1_1"
+				(pin passive line
+					(at -5.08 -3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:JST-Power-2Pin"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -1.016 4.318 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Turkey:JST-PH_2mm"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "JST-Power-2Pin_1_1"
+				(rectangle
+					(start -2.54 3.175)
+					(end 1.27 -3.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 1.27 180)
+					(length 5.08)
+					(name "B+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 -1.27 180)
+					(length 5.08)
+					(name "B-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:Kailh-Choc"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Kailh-Choc_1_1"
+				(rectangle
+					(start -4.318 -2.286)
+					(end 4.318 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -2.286) (xy -0.762 -1.524) (xy 0.762 -1.524) (xy 1.016 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive inverted
+					(at -7.62 -3.81 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 0.6096 0.6096)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.635 0.635)
+							)
+						)
+					)
+				)
+				(pin passive inverted
+					(at 7.62 -3.81 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 0.6096 0.6096)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.635 0.635)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:Mini_7-Pin_Surface_Mount_ON/Off_SPDT_Switch"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "sw"
+				(at 0 4.826 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Mini_7-Pin_Surface_Mount_ON/Off_SPDT_Switch_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Mini_7-Pin_Surface_Mount_ON/Off_SPDT_Switch_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:OLED 4-Pin"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OLED 4-Pin_1_1"
+				(rectangle
+					(start -2.54 -1.27)
+					(end 2.54 -11.43)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -7.62 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 -10.16 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:ProMicro-Wireless"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -0.762 17.526 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ProMicro-Wireless_1_1"
+				(rectangle
+					(start -11.43 16.51)
+					(end 11.43 -16.51)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "ProMicro Wireless"
+					(at 0 -17.78 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin power_in line
+					(at -16.51 15.24 0)
+					(length 5.08)
+					(name "B-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -16.51 12.7 0)
+					(length 5.08)
+					(name "TX(PD3)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 10.16 0)
+					(length 5.08)
+					(name "RX(PD2)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -16.51 7.62 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -16.51 5.08 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 2.54 0)
+					(length 5.08)
+					(name "SDA(PD1)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 0 0)
+					(length 5.08)
+					(name "SCL(PD0)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -2.54 0)
+					(length 5.08)
+					(name "D4(PD4)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -5.08 0)
+					(length 5.08)
+					(name "D5(PC6)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -7.62 0)
+					(length 5.08)
+					(name "D6(PD7)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -10.16 0)
+					(length 5.08)
+					(name "D7(PE6)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -12.7 0)
+					(length 5.08)
+					(name "D8(PB4)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -15.24 0)
+					(length 5.08)
+					(name "D9(PB5)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 16.51 15.24 180)
+					(length 5.08)
+					(name "B+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 16.51 12.7 180)
+					(length 5.08)
+					(name "RAW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 16.51 10.16 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 16.51 7.62 180)
+					(length 5.08)
+					(name "RST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 16.51 5.08 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 2.54 180)
+					(length 5.08)
+					(name "A3(PF4)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 0 180)
+					(length 5.08)
+					(name "A2(PF5)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -2.54 180)
+					(length 5.08)
+					(name "A1(PF6)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -5.08 180)
+					(length 5.08)
+					(name "A0(PF7)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -7.62 180)
+					(length 5.08)
+					(name "D15(PB1)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -10.16 180)
+					(length 5.08)
+					(name "D14(PB3)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -12.7 180)
+					(length 5.08)
+					(name "D16(PB2)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -15.24 180)
+					(length 5.08)
+					(name "D10(PB6)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:Rotary_Encoder"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Turkey:Rotary_Encoder_Switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Rotary_Encoder_0_1"
+				(rectangle
+					(start -5.08 -1.27)
+					(end 5.08 -11.43)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -3.81) (xy -3.81 -3.81) (xy -3.81 -4.318)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -6.35) (xy -3.81 -6.35) (xy -3.81 -7.366) (xy -3.302 -8.382)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -8.89) (xy -3.81 -8.89) (xy -3.81 -8.382)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.318 -6.35) (xy -3.81 -6.35) (xy -3.81 -5.334) (xy -3.302 -4.318)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.81 -6.35)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -8.128) (xy -0.635 -4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.381 -6.35)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.381 -8.128) (xy -0.381 -4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.381 -3.683)
+					(mid 2.3622 -6.4135)
+					(end -0.381 -9.144)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 -4.572) (xy -0.127 -8.128)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -3.429) (xy -0.508 -3.683) (xy 0.127 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -9.398) (xy -0.508 -9.144) (xy 0.127 -8.763)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -5.334) (xy 3.81 -7.366)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -6.35) (xy 3.429 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 -5.334)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 -7.366)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -3.81) (xy 4.318 -3.81) (xy 4.318 -5.334)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -8.89) (xy 4.318 -8.89) (xy 4.318 -7.366)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Rotary_Encoder_1_1"
+				(pin passive line
+					(at -7.62 -3.81 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -6.35 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -8.89 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -3.81 180)
+					(length 2.54)
+					(name "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -8.89 180)
+					(length 2.54)
+					(name "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:SK6812-Mini-E"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -0.508 -4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SK6812-Mini-E_1_1"
+				(rectangle
+					(start -3.81 -1.27)
+					(end 3.81 -8.89)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "SK6812-MiniE"
+					(at 0 -5.842 0)
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 1.1938)
+					(name "VDD"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 -7.62 0)
+					(length 1.1938)
+					(name "DOUT"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -2.54 180)
+					(length 1.1938)
+					(name "DIN"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -7.62 180)
+					(length 1.1938)
+					(name "GND"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:TRRS"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TRRS_0_1"
+				(rectangle
+					(start -8.89 -3.81)
+					(end -7.62 -8.89)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -10.16) (xy 7.62 -10.16) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -10.16) (xy -3.81 -8.89) (xy -5.08 -10.16) (xy -5.08 -10.16)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy 1.27 -3.81) (xy 2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -7.62) (xy -1.27 -6.35) (xy -2.54 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -7.62) (xy 7.62 -7.62) (xy 7.62 -7.62) (xy 7.62 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -5.08) (xy 7.62 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy -7.62 -2.54) (xy -7.62 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TRRS_1_1"
+				(rectangle
+					(start -10.16 -1.27)
+					(end 7.62 -11.43)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 11.43 -2.54 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 11.43 -5.08 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 11.43 -7.62 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 11.43 -10.16 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Turkey:Tactile_Push_Button_Micro_Reset_Switch_4_4_1.5mm"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RS"
+				(at 0 9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Turkey:Tactile Push Button Micro Reset Switch 4_4_1.5mm"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Tactile_Push_Button_Micro_Reset_Switch_4_4_1.5mm_0_1"
+				(polyline
+					(pts
+						(xy -1.27 3.81) (xy 1.27 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -3.81) (xy -1.27 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Tactile_Push_Button_Micro_Reset_Switch_4_4_1.5mm_1_1"
+				(circle
+					(center 0 1.27)
+					(radius 0.5)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 0.5)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -3.81 3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -3.81 -3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 3.81 3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 3.81 -3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 55.88 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0072428d-6eaf-4510-957a-bbdee10cd472")
+	)
+	(junction
+		(at 137.16 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03d6a3e1-8b22-4f2d-a67d-6894e75b663f")
+	)
+	(junction
+		(at 125.73 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06e22b90-9ab5-4c5d-b9f6-fd4f54c316f4")
+	)
+	(junction
+		(at 90.17 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08d8d55a-a298-4b29-a0a7-e5c609117424")
+	)
+	(junction
+		(at 113.03 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "123a9f0a-29f7-4956-93aa-4a942a8536d1")
+	)
+	(junction
+		(at 255.27 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16a17d9c-5882-46d8-b6af-fa75f6333053")
+	)
+	(junction
+		(at 121.92 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18f9451b-367d-4174-bcb6-f00fde6d93d2")
+	)
+	(junction
+		(at 90.17 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a92049c-3450-4306-b1e8-77c17ff58850")
+	)
+	(junction
+		(at 120.65 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bf13624-76a3-4d38-84bd-fa9bc231afd0")
+	)
+	(junction
+		(at 92.71 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c868b13-eb5c-4306-9c68-16f362462958")
+	)
+	(junction
+		(at 29.21 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e11cc0d-5f0b-47fe-9477-f5e0045161db")
+	)
+	(junction
+		(at 59.69 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e6944d7-6f6c-4227-8727-824a5af8e80e")
+	)
+	(junction
+		(at 109.22 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f6046d2-c6f5-450a-97d7-1a24625320b1")
+	)
+	(junction
+		(at 121.92 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20abcede-7276-4ae6-a0d7-3313e4b98985")
+	)
+	(junction
+		(at 125.73 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "241f15ad-35ad-4376-9b64-117912d8b42d")
+	)
+	(junction
+		(at 55.88 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27fe5647-5f73-443e-af02-5ac1c120a543")
+	)
+	(junction
+		(at 90.17 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a86ff82-6500-4638-ad66-b6d8074b8e78")
+	)
+	(junction
+		(at 68.58 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "301e5021-9548-4eb6-b234-62b3e645cf84")
+	)
+	(junction
+		(at 109.22 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37d08b9d-9f7a-4b06-ad09-7b67dfe7b828")
+	)
+	(junction
+		(at 149.86 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4150c271-b49c-408b-8936-4a158408f409")
+	)
+	(junction
+		(at 74.93 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4cafb5a0-5e26-4b59-b249-2fb00f71e0a1")
+	)
+	(junction
+		(at 29.21 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ccd9d86-5de7-42a9-bf63-aaf776b5b95d")
+	)
+	(junction
+		(at 121.92 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50182e81-5eec-4b66-b639-2f194a1b63dd")
+	)
+	(junction
+		(at 219.71 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "516fcefe-ac0d-45e1-be02-3155e8e65295")
+	)
+	(junction
+		(at 113.03 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5544fe47-24de-4c57-8883-b23cee956a52")
+	)
+	(junction
+		(at 59.69 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ca88fad-01b4-4342-8bba-0bc7afe15314")
+	)
+	(junction
+		(at 113.03 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65a3d8dc-ce2c-4863-9d07-cb84ef5b52ad")
+	)
+	(junction
+		(at 76.2 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "676dd780-8459-4f8e-b935-b228a60fce7c")
+	)
+	(junction
+		(at 68.58 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70ad7dd5-af29-4c48-aced-bb5bf17b0c25")
+	)
+	(junction
+		(at 146.05 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7294e62a-6430-425c-aa28-3ece5a6d482c")
+	)
+	(junction
+		(at 76.2 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75b8cd05-110a-49e1-af33-acb6fd1a6dce")
+	)
+	(junction
+		(at 97.79 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a51f87d-9004-44ed-9484-1c51bfe12e68")
+	)
+	(junction
+		(at 109.22 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c107de7-aec8-4dd3-9c58-1ef0d2df3ff8")
+	)
+	(junction
+		(at 146.05 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80499032-1320-4cc6-90d4-dc5c0f7af452")
+	)
+	(junction
+		(at 90.17 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87454316-b294-499f-bc33-ec18ad243733")
+	)
+	(junction
+		(at 121.92 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "878768c8-0fb5-4b44-9968-8d4983e44d81")
+	)
+	(junction
+		(at 125.73 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a1d3ed0-0d49-4456-a2ee-0da39252a94d")
+	)
+	(junction
+		(at 30.48 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c638a5c-e703-4447-be5b-4b51d1e80123")
+	)
+	(junction
+		(at 76.2 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c880cf7-9d68-4cb2-99f0-73db82642293")
+	)
+	(junction
+		(at 53.34 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ff3e1d3-82e1-4796-9b90-0c674cfa96f5")
+	)
+	(junction
+		(at 90.17 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9624eb60-52d9-4a3e-b808-33887571691f")
+	)
+	(junction
+		(at 113.03 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97431dcb-2080-4bc6-aea3-ac417c294d0d")
+	)
+	(junction
+		(at 53.34 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99054ccd-6ba8-4fae-b362-ca46509431ff")
+	)
+	(junction
+		(at 137.16 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9af2b53e-aeb4-4699-b4f8-9161e20a795f")
+	)
+	(junction
+		(at 59.69 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cdcdb88-1f4c-49c2-979b-3c4f64ab5e86")
+	)
+	(junction
+		(at 137.16 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ffd166d-b0b7-4b0e-a163-a86ef0403e9f")
+	)
+	(junction
+		(at 105.41 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a866164c-b27a-4a76-886a-f81194d6ccc2")
+	)
+	(junction
+		(at 121.92 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab2b4a84-3769-466a-bd6b-7b8b3f26d06d")
+	)
+	(junction
+		(at 161.29 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af13118f-52be-4da5-b0ff-66a8e1db72fd")
+	)
+	(junction
+		(at 125.73 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1428c40-d695-4844-b0a6-77f7f7c9daf7")
+	)
+	(junction
+		(at 92.71 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2c84e96-ce68-4c11-b695-11e828bf9e68")
+	)
+	(junction
+		(at 68.58 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3055951-d654-417c-99c5-e4fe022b5760")
+	)
+	(junction
+		(at 72.39 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4f1eee7-ec16-435e-aed4-ddd0aeb26940")
+	)
+	(junction
+		(at 109.22 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b792f1cf-8c44-4620-90e9-ffaf8b42fdaa")
+	)
+	(junction
+		(at 72.39 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8d185a6-fc95-4628-a2b1-a6a97257786d")
+	)
+	(junction
+		(at 72.39 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c69cce3b-44c4-4dcd-bb89-15c922393d47")
+	)
+	(junction
+		(at 161.29 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c770b307-6ac1-4246-94d2-46be46fbbf80")
+	)
+	(junction
+		(at 161.29 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc70668c-0872-4e87-bacf-9c58724fa851")
+	)
+	(junction
+		(at 90.17 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cec5e857-078a-41ba-b608-4c248254906c")
+	)
+	(junction
+		(at 97.79 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d425fa67-d69b-4f33-a1f1-82d710c5c062")
+	)
+	(junction
+		(at 137.16 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d48d2bdc-a05d-4bb7-91a7-f8183cc4313a")
+	)
+	(junction
+		(at 137.16 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db8d14f5-7c65-4203-82d9-39698e57b242")
+	)
+	(junction
+		(at 146.05 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1cfbe32-f301-45a5-8461-2c0a52241305")
+	)
+	(junction
+		(at 97.79 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e418b809-d58f-4161-83c9-01ac200c367d")
+	)
+	(junction
+		(at 105.41 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4880bee-e306-431e-a672-382f4a99132a")
+	)
+	(junction
+		(at 97.79 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5143da6-fee1-403f-a5fc-8230387efbfe")
+	)
+	(junction
+		(at 30.48 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec367065-88a3-4579-9219-cf8156cfed21")
+	)
+	(junction
+		(at 105.41 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec8aab0d-c8fa-4055-b5d6-a4b88da8bf7b")
+	)
+	(junction
+		(at 149.86 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecb4c24c-9a78-4509-bfec-adc6dba261b0")
+	)
+	(junction
+		(at 74.93 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee606466-63af-4798-9ac6-42d90eecfc9a")
+	)
+	(junction
+		(at 161.29 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f377c325-e046-4211-98eb-cb3978c83583")
+	)
+	(junction
+		(at 149.86 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f66e3892-f226-41a0-bf02-2c7110f84e73")
+	)
+	(junction
+		(at 121.92 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f73c8c96-b346-482e-b5c9-00d6142acfbc")
+	)
+	(junction
+		(at 55.88 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f824b81e-0c5d-4938-8aad-425071ee0331")
+	)
+	(junction
+		(at 92.71 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb359ecf-c568-43c2-a884-a20cb40bf66e")
+	)
+	(no_connect
+		(at 44.45 165.1)
+		(uuid "6c92a996-fecf-4842-be1a-7f200011d4c2")
+	)
+	(no_connect
+		(at 243.84 60.96)
+		(uuid "a327b2bf-41b0-487e-bf90-0f7b4b4c3905")
+	)
+	(no_connect
+		(at 265.43 35.56)
+		(uuid "c901d8b1-4476-4d70-90b1-c9edab138ea6")
+	)
+	(no_connect
+		(at 243.84 63.5)
+		(uuid "fac09feb-c66f-48a2-89ca-a053b81082da")
+	)
+	(wire
+		(pts
+			(xy 91.44 130.81) (xy 106.68 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00370993-183a-4384-b40d-5306731eea8d")
+	)
+	(wire
+		(pts
+			(xy 121.92 144.78) (xy 121.92 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0123b7ee-e5c1-4c24-a6fb-f044823ca797")
+	)
+	(wire
+		(pts
+			(xy 109.22 160.02) (xy 110.49 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01451c78-a183-4d53-9878-bd1e4ad7c2c3")
+	)
+	(wire
+		(pts
+			(xy 106.68 139.7) (xy 104.14 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "020f518b-8dae-4df2-8770-7f0acc580b0a")
+	)
+	(wire
+		(pts
+			(xy 125.73 119.38) (xy 127 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03d81711-be9d-4c5c-89be-820ff6d17360")
+	)
+	(wire
+		(pts
+			(xy 44.45 60.96) (xy 68.58 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04b4602c-a6fb-4db1-956e-15ccee33c210")
+	)
+	(wire
+		(pts
+			(xy 92.71 180.34) (xy 93.98 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04b9c5c1-56ce-44c2-879b-1480aa73ea99")
+	)
+	(wire
+		(pts
+			(xy 72.39 144.78) (xy 72.39 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05b193f7-dce6-4436-9729-2bc9b067fcdc")
+	)
+	(wire
+		(pts
+			(xy 93.98 95.25) (xy 97.79 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06953504-294d-4051-8975-d3dc704bbc52")
+	)
+	(wire
+		(pts
+			(xy 243.84 33.02) (xy 255.27 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072f3ea0-b5e9-4cbd-9143-b18a4ffcfcd2")
+	)
+	(wire
+		(pts
+			(xy 109.22 173.99) (xy 125.73 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0756c359-f86a-4bb8-bb93-7a139adcc14a")
+	)
+	(wire
+		(pts
+			(xy 212.09 90.17) (xy 212.09 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0add36cf-fc60-4419-957c-89421382503f")
+	)
+	(wire
+		(pts
+			(xy 110.49 124.46) (xy 110.49 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b4df83d-e9ac-4403-bfed-10d592e00605")
+	)
+	(wire
+		(pts
+			(xy 97.79 29.21) (xy 97.79 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bfdcd0c-3e66-4ebe-b3c8-2aa4430b8b30")
+	)
+	(wire
+		(pts
+			(xy 53.34 50.8) (xy 53.34 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7c0b14-dfa4-4051-b09f-842abed4bbc8")
+	)
+	(wire
+		(pts
+			(xy 106.68 119.38) (xy 104.14 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d4210aa-3e22-46b9-b61c-997cbb95cd4a")
+	)
+	(wire
+		(pts
+			(xy 91.44 144.78) (xy 91.44 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dd82493-0584-4c19-82fd-259329fc095c")
+	)
+	(wire
+		(pts
+			(xy 105.41 124.46) (xy 104.14 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e98c7ad-530f-40db-aff3-eb32e722c5b0")
+	)
+	(wire
+		(pts
+			(xy 138.43 128.27) (xy 121.92 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f5dddd9-86ae-47b3-8e6b-240f496c0330")
+	)
+	(wire
+		(pts
+			(xy 44.45 151.13) (xy 54.61 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10d138c4-cc06-48c0-8558-1d115be675b6")
+	)
+	(wire
+		(pts
+			(xy 115.57 99.06) (xy 113.03 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10d8596a-ed2d-4da4-92e7-118f94890d52")
+	)
+	(wire
+		(pts
+			(xy 77.47 152.4) (xy 87.63 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "112dd03c-5b97-4675-b7f8-aaadd152eab3")
+	)
+	(wire
+		(pts
+			(xy 212.09 80.01) (xy 212.09 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118bb675-f956-4a6b-a37f-2f39219e1906")
+	)
+	(wire
+		(pts
+			(xy 219.71 92.71) (xy 220.98 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11f57e65-39a0-4a74-b2a7-b6d66e8001a0")
+	)
+	(wire
+		(pts
+			(xy 72.39 128.27) (xy 55.88 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12162957-5f68-4fb0-a74a-d4100cb5fdfc")
+	)
+	(wire
+		(pts
+			(xy 127 124.46) (xy 124.46 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1245a5fc-74d5-4e6c-888b-ede602cbe9ee")
+	)
+	(wire
+		(pts
+			(xy 54.61 144.78) (xy 55.88 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12969034-e72c-4ae4-afb4-51e042469138")
+	)
+	(wire
+		(pts
+			(xy 105.41 148.59) (xy 121.92 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12ca6df2-9180-4af2-94f8-a92014fc8e77")
+	)
+	(wire
+		(pts
+			(xy 120.65 165.1) (xy 121.92 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13e97b8b-074b-49d0-8b44-e39554082122")
+	)
+	(wire
+		(pts
+			(xy 29.21 24.13) (xy 29.21 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14259661-a42b-48aa-9c5c-1ec23341d171")
+	)
+	(wire
+		(pts
+			(xy 104.14 185.42) (xy 104.14 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1570f7ec-dd40-4eab-8956-22cd4664b2a0")
+	)
+	(wire
+		(pts
+			(xy 90.17 128.27) (xy 72.39 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15e5e235-8ed3-4ae7-a542-c7ba754664e1")
+	)
+	(wire
+		(pts
+			(xy 54.61 132.08) (xy 54.61 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15ff2622-2320-4bab-9ead-3c67aece24de")
+	)
+	(wire
+		(pts
+			(xy 109.22 111.76) (xy 109.22 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "168cb01e-35f5-4134-80c9-00ea08fe40ac")
+	)
+	(wire
+		(pts
+			(xy 92.71 153.67) (xy 92.71 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16d88cb3-444a-4451-b0d0-a19d43a4ff2f")
+	)
+	(wire
+		(pts
+			(xy 53.34 24.13) (xy 53.34 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "180ed8f6-ea4a-4d83-a93f-8ff1b3266aed")
+	)
+	(wire
+		(pts
+			(xy 97.79 73.66) (xy 97.79 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19736874-01d6-463d-8f5a-1bf0f2df8753")
+	)
+	(wire
+		(pts
+			(xy 106.68 160.02) (xy 104.14 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a533cca-f738-4b42-9523-a281911cc0b8")
+	)
+	(wire
+		(pts
+			(xy 87.63 165.1) (xy 90.17 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b3a2cc7-1837-401b-9873-e133711833cb")
+	)
+	(wire
+		(pts
+			(xy 43.18 160.02) (xy 43.18 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d7a9d65-f7dc-4a70-b7f0-6f0e09d0218d")
+	)
+	(wire
+		(pts
+			(xy 105.41 144.78) (xy 105.41 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dd3a38e-c820-4b01-9f1d-cb043245ead2")
+	)
+	(wire
+		(pts
+			(xy 43.18 160.02) (xy 44.45 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0bf8c1-0cfb-41fa-addf-e21f13abad2c")
+	)
+	(wire
+		(pts
+			(xy 137.16 124.46) (xy 138.43 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e408ce5-f011-4441-89a4-f4aaa4b805ea")
+	)
+	(wire
+		(pts
+			(xy 55.88 124.46) (xy 54.61 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e54e32b-ec6d-48c1-9b1c-0455cc054bd7")
+	)
+	(wire
+		(pts
+			(xy 109.22 139.7) (xy 110.49 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb5cc60-b7f3-46e7-a387-0c8406cdce9f")
+	)
+	(wire
+		(pts
+			(xy 113.03 60.96) (xy 137.16 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21077674-c792-4b5d-9ddc-f01fec5e8952")
+	)
+	(wire
+		(pts
+			(xy 91.44 124.46) (xy 91.44 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21b1ab61-3b60-4ff5-a5e5-11b52d63341f")
+	)
+	(wire
+		(pts
+			(xy 77.47 124.46) (xy 77.47 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22bda7cf-2048-46c2-bc27-67d37daa5932")
+	)
+	(wire
+		(pts
+			(xy 90.17 144.78) (xy 90.17 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "259e7cb3-b74c-4f27-baf9-1f237fbca726")
+	)
+	(wire
+		(pts
+			(xy 73.66 119.38) (xy 71.12 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25c8c415-a065-4fee-b07f-abf984e5cf95")
+	)
+	(wire
+		(pts
+			(xy 60.96 144.78) (xy 58.42 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28d023b5-b999-4efa-abc8-550867b518a7")
+	)
+	(wire
+		(pts
+			(xy 113.03 95.25) (xy 113.03 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a966050-3fb9-4997-9892-4dd0d7a07a7f")
+	)
+	(wire
+		(pts
+			(xy 43.18 133.35) (xy 59.69 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cabdc1e-d9e3-4b4d-9868-e8d1f26e1432")
+	)
+	(wire
+		(pts
+			(xy 44.45 39.37) (xy 68.58 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d88e851-1a5c-41ef-b30f-e2efc6591067")
+	)
+	(wire
+		(pts
+			(xy 125.73 133.35) (xy 149.86 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2da6e535-2fd7-47ad-8809-f77db4770f87")
+	)
+	(wire
+		(pts
+			(xy 72.39 124.46) (xy 72.39 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec6fa22-6cd7-49fc-b797-fab26e786059")
+	)
+	(wire
+		(pts
+			(xy 210.82 20.32) (xy 255.27 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fdd7e70-8ea9-43a2-b2e7-38d3db5a87ea")
+	)
+	(wire
+		(pts
+			(xy 139.7 151.13) (xy 139.7 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ff89a87-b45e-4ca2-9ca2-8a2f3dce80cd")
+	)
+	(wire
+		(pts
+			(xy 113.03 99.06) (xy 113.03 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30b0189f-217f-4b41-8727-b17ff55475ef")
+	)
+	(wire
+		(pts
+			(xy 72.39 148.59) (xy 90.17 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "319c3975-1320-4892-bf7c-238dd32c198e")
+	)
+	(wire
+		(pts
+			(xy 72.39 124.46) (xy 71.12 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32aa8e01-b859-4847-80ec-c6d3e800bef9")
+	)
+	(wire
+		(pts
+			(xy 92.71 133.35) (xy 92.71 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32d6d775-66e3-4c4b-87bf-7b92ba0837cc")
+	)
+	(wire
+		(pts
+			(xy 90.17 168.91) (xy 105.41 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3325aef9-fede-49fe-9569-cbc24c465588")
+	)
+	(wire
+		(pts
+			(xy 76.2 119.38) (xy 77.47 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3362432d-d837-45d3-880e-722fd7eb6124")
+	)
+	(wire
+		(pts
+			(xy 90.17 124.46) (xy 90.17 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33c5029c-456e-4d45-a372-25a0e992f824")
+	)
+	(wire
+		(pts
+			(xy 146.05 29.21) (xy 146.05 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3538d501-4f18-49b0-b0bb-b258b631d7ba")
+	)
+	(wire
+		(pts
+			(xy 161.29 60.96) (xy 167.64 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35a193f5-9039-4ebb-bd10-8c446e2e9f2c")
+	)
+	(wire
+		(pts
+			(xy 60.96 124.46) (xy 57.15 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35e2444c-e1e4-40e6-9172-c3e14b6d92aa")
+	)
+	(wire
+		(pts
+			(xy 137.16 83.82) (xy 161.29 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "365d4060-aff6-4279-be4b-b7ea63e3f347")
+	)
+	(wire
+		(pts
+			(xy 105.41 165.1) (xy 105.41 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "371926be-f933-4786-8931-6d97381c08ce")
+	)
+	(wire
+		(pts
+			(xy 125.73 105.41) (xy 137.16 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a5d47f7-4da0-41c1-8062-394a25aeaec1")
+	)
+	(wire
+		(pts
+			(xy 73.66 151.13) (xy 73.66 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a6097de-cd77-4582-acab-9ed6af4ed0bd")
+	)
+	(wire
+		(pts
+			(xy 97.79 50.8) (xy 97.79 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ae4d7d5-42c5-44ce-a551-20a7d47aa588")
+	)
+	(wire
+		(pts
+			(xy 68.58 60.96) (xy 90.17 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b65f7b4-895b-4590-bc01-50c8c134ffdb")
+	)
+	(wire
+		(pts
+			(xy 139.7 129.54) (xy 139.7 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b93fa38-cfce-46b5-8531-1df77a3308b1")
+	)
+	(wire
+		(pts
+			(xy 72.39 168.91) (xy 90.17 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c87d5e3-3271-426d-97ef-b4d7b7f7e1a5")
+	)
+	(wire
+		(pts
+			(xy 104.14 165.1) (xy 105.41 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dacb3e0-3ecf-4cef-b9b8-af029ca357c7")
+	)
+	(wire
+		(pts
+			(xy 74.93 50.8) (xy 74.93 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2cbe9a-056d-4a5d-9426-c3d5870a5aba")
+	)
+	(wire
+		(pts
+			(xy 120.65 187.96) (xy 137.16 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4162de5d-e36e-4151-95d2-28d0f2c940bb")
+	)
+	(wire
+		(pts
+			(xy 90.17 39.37) (xy 113.03 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41a6b5f4-6d30-413b-a6c4-b1dfc40a6ae8")
+	)
+	(wire
+		(pts
+			(xy 125.73 139.7) (xy 127 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41c2e1d2-af24-47c8-946e-46f16ce88413")
+	)
+	(wire
+		(pts
+			(xy 92.71 173.99) (xy 109.22 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "433cc0ca-4bf3-45e2-9723-a565c4e5fc44")
+	)
+	(wire
+		(pts
+			(xy 77.47 132.08) (xy 87.63 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "441c84e5-b278-44cd-bc88-11910d55dbba")
+	)
+	(wire
+		(pts
+			(xy 71.12 165.1) (xy 72.39 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "452f0612-fdf2-4a7d-9310-d848eb6e8513")
+	)
+	(wire
+		(pts
+			(xy 92.71 153.67) (xy 109.22 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45595b80-0b44-41d5-be01-39cad76b9f59")
+	)
+	(wire
+		(pts
+			(xy 127 185.42) (xy 124.46 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4583161f-0fd3-4bff-a9db-641a018e5d92")
+	)
+	(wire
+		(pts
+			(xy 121.92 124.46) (xy 120.65 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "459aa8aa-d96a-44ae-88a1-bb994a89f296")
+	)
+	(wire
+		(pts
+			(xy 113.03 39.37) (xy 137.16 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4607787d-22cf-4614-bcf1-bfc8ed23c22d")
+	)
+	(wire
+		(pts
+			(xy 124.46 171.45) (xy 140.97 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4626a6cd-815f-44b2-b79b-3fb682f8b655")
+	)
+	(wire
+		(pts
+			(xy 124.46 124.46) (xy 124.46 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "473cdd82-1a4d-412b-9c3a-b8fd2afffd0a")
+	)
+	(wire
+		(pts
+			(xy 146.05 50.8) (xy 146.05 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47af86a5-7fa4-4c55-81b1-7c037bb69d65")
+	)
+	(wire
+		(pts
+			(xy 125.73 173.99) (xy 125.73 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c5cf00-7d36-4783-8e96-730b7132829a")
+	)
+	(wire
+		(pts
+			(xy 109.22 173.99) (xy 109.22 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d7b7da-1ed9-4b6c-8315-53a54f39d4d2")
+	)
+	(wire
+		(pts
+			(xy 123.19 144.78) (xy 123.19 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b36325-b9e8-4086-8b42-e2f2d0f9de2e")
+	)
+	(wire
+		(pts
+			(xy 104.14 187.96) (xy 120.65 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49c21747-6ffe-4792-8088-79d17bccd8e7")
+	)
+	(wire
+		(pts
+			(xy 210.82 40.64) (xy 205.74 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49cfaaa4-60c7-4ce6-b41c-7941207b4567")
+	)
+	(wire
+		(pts
+			(xy 76.2 133.35) (xy 76.2 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a7889fb-2a05-49cc-9502-1edf8962faf6")
+	)
+	(wire
+		(pts
+			(xy 138.43 165.1) (xy 138.43 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b0399fe-8b29-4009-aaea-62a3168a9f88")
+	)
+	(wire
+		(pts
+			(xy 87.63 152.4) (xy 87.63 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bf3b625-56f9-4fe9-9a73-2e47b3b6a716")
+	)
+	(wire
+		(pts
+			(xy 106.68 130.81) (xy 106.68 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ecddc37-07d9-4ee1-a2cc-7719d84e5c46")
+	)
+	(wire
+		(pts
+			(xy 109.22 153.67) (xy 109.22 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ede61f2-d313-4d51-adb2-74afcda0e49f")
+	)
+	(wire
+		(pts
+			(xy 219.71 90.17) (xy 219.71 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef35413-7987-4e30-8b97-00f51c65083e")
+	)
+	(wire
+		(pts
+			(xy 90.17 148.59) (xy 105.41 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50040c98-d0e9-4063-a95b-f1d1547bcea1")
+	)
+	(wire
+		(pts
+			(xy 76.2 111.76) (xy 92.71 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50ce122d-bf13-463b-803a-e299f53a39ce")
+	)
+	(wire
+		(pts
+			(xy 121.92 24.13) (xy 121.92 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51e9778c-2bad-489f-9852-fc80a12a2611")
+	)
+	(wire
+		(pts
+			(xy 137.16 39.37) (xy 161.29 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5433079f-0c0e-49a4-9b7f-ea290f766ff5")
+	)
+	(wire
+		(pts
+			(xy 124.46 165.1) (xy 124.46 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "544c5384-eb3e-4aa9-bea8-15ce2679ae41")
+	)
+	(wire
+		(pts
+			(xy 106.68 185.42) (xy 106.68 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55922188-6c80-4aaa-8c54-359a6db0e6d5")
+	)
+	(wire
+		(pts
+			(xy 57.15 119.38) (xy 54.61 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55de18b3-5555-4f6b-9c70-2673cdc7b0c4")
+	)
+	(wire
+		(pts
+			(xy 127 144.78) (xy 123.19 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55f7fbde-ce1a-4852-aa3e-0f5971505182")
+	)
+	(wire
+		(pts
+			(xy 137.16 144.78) (xy 138.43 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "572c3f4f-faca-4cfe-ac07-4f8c7da7894d")
+	)
+	(wire
+		(pts
+			(xy 76.2 160.02) (xy 77.47 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "581e7914-d7fb-4fbf-8f3f-1291e0086b69")
+	)
+	(wire
+		(pts
+			(xy 74.93 24.13) (xy 74.93 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59bb36df-6e26-41d2-8bee-a291882caaf6")
+	)
+	(wire
+		(pts
+			(xy 149.86 111.76) (xy 153.67 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a96e523-f46f-4fbd-a98a-9da95d42fdd8")
+	)
+	(wire
+		(pts
+			(xy 92.71 111.76) (xy 109.22 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b3a4396-a2fd-486f-b2d0-40cfefa56fdb")
+	)
+	(wire
+		(pts
+			(xy 120.65 172.72) (xy 120.65 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bfcddc8-2297-4153-a565-ecd8abe2e694")
+	)
+	(wire
+		(pts
+			(xy 90.17 171.45) (xy 106.68 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c19c4e9-ffcd-44fe-8ec0-f0af3dcaacaa")
+	)
+	(wire
+		(pts
+			(xy 59.69 111.76) (xy 76.2 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c566c1f-5552-432a-8791-8b1f0688a19a")
+	)
+	(wire
+		(pts
+			(xy 110.49 144.78) (xy 110.49 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c5922f6-e9ba-45b0-bb45-8616d6741769")
+	)
+	(wire
+		(pts
+			(xy 113.03 83.82) (xy 137.16 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d1b2b21-20bb-42c8-9207-02f137f01442")
+	)
+	(wire
+		(pts
+			(xy 120.65 152.4) (xy 120.65 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60d9e2ab-7ad3-4b42-9c89-2647c44e40ae")
+	)
+	(wire
+		(pts
+			(xy 92.71 139.7) (xy 93.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "616f2403-3d96-46dc-a187-f98d1e598749")
+	)
+	(wire
+		(pts
+			(xy 140.97 160.02) (xy 137.16 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61ea8bce-44c3-434c-b44d-121d401324d9")
+	)
+	(wire
+		(pts
+			(xy 55.88 124.46) (xy 55.88 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e8c4a4-4666-47e9-a9ee-404ee87cfa3c")
+	)
+	(wire
+		(pts
+			(xy 74.93 29.21) (xy 74.93 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66ec5d74-4776-4858-8fc6-c2a8fa56904d")
+	)
+	(wire
+		(pts
+			(xy 123.19 129.54) (xy 139.7 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6876fd98-aab7-4fc1-8449-807f12de55ad")
+	)
+	(wire
+		(pts
+			(xy 91.44 152.4) (xy 106.68 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a1ce2f-1df8-45be-aa12-21d1fd69ae9e")
+	)
+	(wire
+		(pts
+			(xy 140.97 171.45) (xy 140.97 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b0bd1e5-b9c9-491c-89ee-0f83d2fe70d1")
+	)
+	(wire
+		(pts
+			(xy 76.2 153.67) (xy 92.71 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d5e01e2-ae8a-420e-a9f7-4b874174cc06")
+	)
+	(wire
+		(pts
+			(xy 127 165.1) (xy 124.46 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d910f0b-ec70-4f32-9c22-313ecd54aebb")
+	)
+	(wire
+		(pts
+			(xy 91.44 165.1) (xy 91.44 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e48e5db-fcb8-4432-8c53-4ba9e38cb25d")
+	)
+	(wire
+		(pts
+			(xy 90.17 185.42) (xy 90.17 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f90513b-8dc6-469d-9e50-0a34d53e77ea")
+	)
+	(wire
+		(pts
+			(xy 58.42 151.13) (xy 73.66 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ccbb66-47f8-4787-a035-d6e7db9614ed")
+	)
+	(wire
+		(pts
+			(xy 137.16 60.96) (xy 161.29 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "720b1687-4ddf-4122-b407-3ac3ec35c8aa")
+	)
+	(wire
+		(pts
+			(xy 72.39 165.1) (xy 72.39 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d209b5-33ff-4b4d-aba3-c05660c4cdd3")
+	)
+	(wire
+		(pts
+			(xy 110.49 165.1) (xy 110.49 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "751caef7-27aa-4c71-a565-d4084be84c58")
+	)
+	(wire
+		(pts
+			(xy 76.2 111.76) (xy 76.2 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "758d8be7-7cc6-48c1-b977-5c772c5106eb")
+	)
+	(wire
+		(pts
+			(xy 30.48 168.91) (xy 30.48 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e8394b-a215-4196-b1e9-9b9b0cc6b56b")
+	)
+	(wire
+		(pts
+			(xy 121.92 168.91) (xy 138.43 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "791241f7-20b8-4adb-8a09-11fa95a7abac")
+	)
+	(wire
+		(pts
+			(xy 125.73 111.76) (xy 125.73 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b806526-969c-4161-ab03-f96248a137a9")
+	)
+	(wire
+		(pts
+			(xy 73.66 130.81) (xy 73.66 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b9759dd-1448-4d40-a3c2-ed46ac8a2986")
+	)
+	(wire
+		(pts
+			(xy 124.46 119.38) (xy 120.65 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c7c1c01-b5a7-4e33-b2d8-52856ad7c2a2")
+	)
+	(wire
+		(pts
+			(xy 121.92 148.59) (xy 138.43 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cfd2a10-c39e-4348-9a4f-5f1dbcd8f33e")
+	)
+	(wire
+		(pts
+			(xy 30.48 168.91) (xy 55.88 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d5aaf84-59d9-44a5-ba20-515254eb4f7c")
+	)
+	(wire
+		(pts
+			(xy 76.2 133.35) (xy 92.71 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d7bb2c6-08f8-4f3f-b7c6-04a3c472063b")
+	)
+	(wire
+		(pts
+			(xy 121.92 50.8) (xy 121.92 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fb8a59e-fef0-4821-8f72-7689a55d7774")
+	)
+	(wire
+		(pts
+			(xy 90.17 60.96) (xy 113.03 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff1e6cf-2731-46c3-8ac5-40fa43c6ab38")
+	)
+	(wire
+		(pts
+			(xy 105.41 168.91) (xy 121.92 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "806de5c5-ffc0-4c37-b405-e6aed47a86c4")
+	)
+	(wire
+		(pts
+			(xy 68.58 83.82) (xy 90.17 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "808a5888-078a-4a47-83bd-9d4eaeb5cac0")
+	)
+	(wire
+		(pts
+			(xy 120.65 185.42) (xy 120.65 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81ec1894-2fa3-4d9e-bf71-ef5097e27152")
+	)
+	(wire
+		(pts
+			(xy 125.73 173.99) (xy 149.86 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82d723d3-0c31-4cc7-bbbe-91ea860a11a8")
+	)
+	(wire
+		(pts
+			(xy 121.92 29.21) (xy 121.92 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83ed6488-130a-41d9-a21e-b3be8b11fbfd")
+	)
+	(wire
+		(pts
+			(xy 60.96 165.1) (xy 58.42 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8406d5b5-eb1c-452e-aa29-dfd573d9e94e")
+	)
+	(wire
+		(pts
+			(xy 137.16 187.96) (xy 144.78 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8559554e-d03e-45d2-8de1-3f173dd111a6")
+	)
+	(wire
+		(pts
+			(xy 109.22 153.67) (xy 125.73 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85dac1c2-a962-4cf2-b3ac-683778cb7c47")
+	)
+	(wire
+		(pts
+			(xy 109.22 119.38) (xy 110.49 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8604dd4a-d1bd-4c75-a08b-ddc24f860a30")
+	)
+	(wire
+		(pts
+			(xy 43.18 153.67) (xy 59.69 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "863a418e-769b-4956-81f7-fd66882e3d3c")
+	)
+	(wire
+		(pts
+			(xy 92.71 133.35) (xy 109.22 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86855363-f1ad-478f-8fee-9d25241537c7")
+	)
+	(wire
+		(pts
+			(xy 44.45 144.78) (xy 44.45 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c301f6-8ee9-413b-97c7-08b3aecb3962")
+	)
+	(wire
+		(pts
+			(xy 55.88 165.1) (xy 55.88 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "895f6b71-aac6-4578-a196-355fc6bf1ae8")
+	)
+	(wire
+		(pts
+			(xy 125.73 153.67) (xy 149.86 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a5e82ab-9c41-4534-8bd1-e73e0918e42d")
+	)
+	(wire
+		(pts
+			(xy 93.98 100.33) (xy 113.03 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c919556-57e6-4207-8f0b-96f46ab877cb")
+	)
+	(wire
+		(pts
+			(xy 90.17 83.82) (xy 113.03 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d659f62-5d7b-40a7-9893-a0033580f10e")
+	)
+	(wire
+		(pts
+			(xy 109.22 111.76) (xy 125.73 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8da39f6d-f770-477d-a2fb-15d998c5ced5")
+	)
+	(wire
+		(pts
+			(xy 110.49 152.4) (xy 120.65 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e6ac5be-3b71-42f8-a376-f7b8fa2b8066")
+	)
+	(wire
+		(pts
+			(xy 43.18 139.7) (xy 43.18 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9030af97-1535-4a95-beaa-71f103de36e8")
+	)
+	(wire
+		(pts
+			(xy 73.66 165.1) (xy 73.66 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9193a8ba-aa2d-4b1f-83d8-7024e2134ba6")
+	)
+	(wire
+		(pts
+			(xy 44.45 124.46) (xy 44.45 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9254883f-1644-4a77-b953-558ab45548e9")
+	)
+	(wire
+		(pts
+			(xy 59.69 111.76) (xy 59.69 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "947fc2f3-c4b5-45de-a9c7-e8d1dc2a04e9")
+	)
+	(wire
+		(pts
+			(xy 58.42 144.78) (xy 58.42 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "981d23cc-c1e5-4f44-ac75-571c8f842ddf")
+	)
+	(wire
+		(pts
+			(xy 125.73 111.76) (xy 149.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98f563bf-8028-494a-a6df-55b8469a1a81")
+	)
+	(wire
+		(pts
+			(xy 92.71 160.02) (xy 93.98 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98ff61dd-2f93-4475-9a02-c807bead4f5a")
+	)
+	(wire
+		(pts
+			(xy 77.47 165.1) (xy 73.66 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a1d0600-38ef-40fc-970b-bb46b6d2f452")
+	)
+	(wire
+		(pts
+			(xy 43.18 111.76) (xy 59.69 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c654aaa-2506-4703-b02b-4e82c45f6c09")
+	)
+	(wire
+		(pts
+			(xy 55.88 144.78) (xy 55.88 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e8c2ffc-68c1-48fc-b1a2-175a0ade0d08")
+	)
+	(wire
+		(pts
+			(xy 121.92 124.46) (xy 121.92 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a06d2d93-43f2-4d8d-94af-85841e53e68e")
+	)
+	(wire
+		(pts
+			(xy 120.65 144.78) (xy 121.92 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a19cc7b7-a2de-4141-881a-18dec27adae7")
+	)
+	(wire
+		(pts
+			(xy 93.98 124.46) (xy 91.44 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a22b9a96-f5dd-4d54-8b33-d8706783bbf9")
+	)
+	(wire
+		(pts
+			(xy 30.48 148.59) (xy 55.88 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c15187-4848-489e-aa40-c4d8951c4f46")
+	)
+	(wire
+		(pts
+			(xy 125.73 160.02) (xy 127 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3943cb4-adea-4962-83cc-6e7667697484")
+	)
+	(wire
+		(pts
+			(xy 93.98 144.78) (xy 91.44 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a448678b-8e1d-4eba-bf83-a5201567c041")
+	)
+	(wire
+		(pts
+			(xy 76.2 139.7) (xy 77.47 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a52cd118-3dc8-433d-8c85-001d702d8e82")
+	)
+	(wire
+		(pts
+			(xy 149.86 111.76) (xy 149.86 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5da17f1-e6d8-46c8-aa0d-3e9c4fa19986")
+	)
+	(wire
+		(pts
+			(xy 30.48 128.27) (xy 30.48 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5f54baa-20f0-4c21-8a7d-e49b790f5109")
+	)
+	(wire
+		(pts
+			(xy 109.22 180.34) (xy 110.49 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8507297-87af-4263-8f59-396997b492e0")
+	)
+	(wire
+		(pts
+			(xy 121.92 73.66) (xy 121.92 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a88017e8-1416-4ea6-83d5-15fdc49943e8")
+	)
+	(wire
+		(pts
+			(xy 105.41 124.46) (xy 105.41 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a97b35f9-4868-41c2-b59a-dcf91ae4de61")
+	)
+	(wire
+		(pts
+			(xy 43.18 139.7) (xy 44.45 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a98f4ac9-5a35-40bf-92ab-6e9705eef658")
+	)
+	(wire
+		(pts
+			(xy 121.92 165.1) (xy 121.92 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abcf134b-570f-4479-b6e4-40d449ea99f7")
+	)
+	(wire
+		(pts
+			(xy 161.29 39.37) (xy 167.64 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad9886d4-76bb-41c8-a7a5-eb7a7700d16c")
+	)
+	(wire
+		(pts
+			(xy 149.86 133.35) (xy 149.86 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0207c7d-c977-402a-91f2-9d8e2ebea281")
+	)
+	(wire
+		(pts
+			(xy 110.49 132.08) (xy 120.65 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b195c81a-abb6-4405-a1b5-95b20d5dd34d")
+	)
+	(wire
+		(pts
+			(xy 137.16 185.42) (xy 137.16 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b199a743-5bc3-452b-9e84-11ed78a6a0d5")
+	)
+	(wire
+		(pts
+			(xy 212.09 92.71) (xy 219.71 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1fe716f-97d5-4431-9b33-7c7587dc83b8")
+	)
+	(wire
+		(pts
+			(xy 105.41 128.27) (xy 90.17 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b39c7d82-adb7-494c-a408-2ef894d2d935")
+	)
+	(wire
+		(pts
+			(xy 125.73 133.35) (xy 125.73 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b577d9c2-dce9-499c-b3c7-265ca304bdf3")
+	)
+	(wire
+		(pts
+			(xy 97.79 24.13) (xy 97.79 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5c69748-d7a4-45ef-831d-7132fe81307a")
+	)
+	(wire
+		(pts
+			(xy 59.69 153.67) (xy 59.69 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b772247b-07ce-4aa4-be11-aa8e4be251d3")
+	)
+	(wire
+		(pts
+			(xy 71.12 144.78) (xy 72.39 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9f93551-9589-40f8-b8c8-7d4d2349ed81")
+	)
+	(wire
+		(pts
+			(xy 59.69 139.7) (xy 60.96 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba3ef431-b625-457f-b6b4-edba7f4ff56d")
+	)
+	(wire
+		(pts
+			(xy 29.21 50.8) (xy 29.21 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbc7bddf-fc68-4c48-afc4-14c9c4420c6e")
+	)
+	(wire
+		(pts
+			(xy 91.44 119.38) (xy 87.63 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbf5d93c-2731-4520-990c-05bf8a64549a")
+	)
+	(wire
+		(pts
+			(xy 125.73 153.67) (xy 125.73 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc2746dc-29d1-493d-8df6-cde919523c01")
+	)
+	(wire
+		(pts
+			(xy 58.42 130.81) (xy 73.66 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc3234a2-e703-48cd-a090-8239e1b4fcb7")
+	)
+	(wire
+		(pts
+			(xy 43.18 119.38) (xy 43.18 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd77634f-6369-46ca-a212-544d6df4881b")
+	)
+	(wire
+		(pts
+			(xy 59.69 133.35) (xy 76.2 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf97038f-c269-4a6c-af4f-c6a80ab2bd90")
+	)
+	(wire
+		(pts
+			(xy 146.05 95.25) (xy 146.05 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c007c168-e93d-412e-b19b-9367139fde6d")
+	)
+	(wire
+		(pts
+			(xy 57.15 124.46) (xy 57.15 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09880f2-a862-4f58-a4c8-e2dfd23d1adb")
+	)
+	(wire
+		(pts
+			(xy 55.88 128.27) (xy 30.48 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09baea3-a0cf-427c-bd48-172e08b4f50f")
+	)
+	(wire
+		(pts
+			(xy 124.46 151.13) (xy 139.7 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c200cc57-f509-4726-a944-bd88eccbf866")
+	)
+	(wire
+		(pts
+			(xy 120.65 132.08) (xy 120.65 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2175ba5-aeeb-481e-bc1d-2ba727beb8e3")
+	)
+	(wire
+		(pts
+			(xy 149.86 153.67) (xy 149.86 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3dab1f7-6e97-4cab-b551-b41b8fe22a1c")
+	)
+	(wire
+		(pts
+			(xy 54.61 151.13) (xy 54.61 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c507afa9-d88a-425a-b942-cf4eac2a987c")
+	)
+	(wire
+		(pts
+			(xy 104.14 144.78) (xy 105.41 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ff545d-7c9c-4d59-8db1-f336aa2d9a94")
+	)
+	(wire
+		(pts
+			(xy 92.71 111.76) (xy 92.71 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7112bbb-c80d-4599-81ee-6f426d8013b0")
+	)
+	(wire
+		(pts
+			(xy 53.34 29.21) (xy 53.34 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8f81941-590d-4f24-999c-bbc9f458ff2b")
+	)
+	(wire
+		(pts
+			(xy 59.69 153.67) (xy 76.2 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9e4ceec-bfe7-468e-bb73-a3d91afbb4d4")
+	)
+	(wire
+		(pts
+			(xy 137.16 105.41) (xy 161.29 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cba637f2-413e-4133-8599-5bddd7b8e3ef")
+	)
+	(wire
+		(pts
+			(xy 210.82 22.86) (xy 210.82 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbdd5196-b723-4d40-a7c1-aab1e2635110")
+	)
+	(wire
+		(pts
+			(xy 110.49 172.72) (xy 120.65 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc21e7d0-ad47-4d1a-ad66-41813b22926f")
+	)
+	(wire
+		(pts
+			(xy 87.63 144.78) (xy 90.17 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cce63be6-17fa-46e0-a42a-b9cec56678da")
+	)
+	(wire
+		(pts
+			(xy 77.47 144.78) (xy 77.47 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd80ee84-675f-4975-ba57-2c3236612c1e")
+	)
+	(wire
+		(pts
+			(xy 255.27 20.32) (xy 255.27 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ced02ec6-4009-4f5d-87ea-3ae882e844d6")
+	)
+	(wire
+		(pts
+			(xy 68.58 39.37) (xy 90.17 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf1e386e-3792-42b2-91ed-91a033e83623")
+	)
+	(wire
+		(pts
+			(xy 161.29 105.41) (xy 167.64 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfe5b3a5-d0ac-480e-8694-4a4ad5f81e33")
+	)
+	(wire
+		(pts
+			(xy 44.45 83.82) (xy 68.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d048c00a-553c-4ccc-8f88-0f46d3cae392")
+	)
+	(wire
+		(pts
+			(xy 92.71 119.38) (xy 93.98 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0d8197a-87e9-45df-8f4b-37a2f2c9792e")
+	)
+	(wire
+		(pts
+			(xy 87.63 124.46) (xy 90.17 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1205b7e-dbff-44a5-bd60-316625f4c378")
+	)
+	(wire
+		(pts
+			(xy 146.05 73.66) (xy 146.05 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d15e8331-5aee-4c3a-8fda-a1a383d1314d")
+	)
+	(wire
+		(pts
+			(xy 109.22 133.35) (xy 125.73 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d31ef353-bd8f-4b03-af29-f718a42b4780")
+	)
+	(wire
+		(pts
+			(xy 205.74 40.64) (xy 205.74 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4412010-dd5d-4724-aaa0-f873dfdaf0b9")
+	)
+	(wire
+		(pts
+			(xy 54.61 165.1) (xy 55.88 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4d11558-0fcd-4ec0-817e-74cc9c97378e")
+	)
+	(wire
+		(pts
+			(xy 59.69 133.35) (xy 59.69 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8e12d43-e930-46eb-8827-45275bc0682e")
+	)
+	(wire
+		(pts
+			(xy 125.73 180.34) (xy 127 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92e15ac-323c-4915-b048-f695664a5b1c")
+	)
+	(wire
+		(pts
+			(xy 205.74 43.18) (xy 210.82 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da950989-29ae-496a-a9ff-6726c6b34c11")
+	)
+	(wire
+		(pts
+			(xy 137.16 165.1) (xy 138.43 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db18073c-f85c-4ee3-ab56-97b5800a5a28")
+	)
+	(wire
+		(pts
+			(xy 219.71 80.01) (xy 219.71 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc98385-c08c-4303-800d-3a039caab9f9")
+	)
+	(wire
+		(pts
+			(xy 137.16 180.34) (xy 144.78 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc34c3dd-924b-489f-9a65-10e3650eaf13")
+	)
+	(wire
+		(pts
+			(xy 138.43 124.46) (xy 138.43 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e09c557b-a7ab-4142-b01b-bbbbcc8ae31d")
+	)
+	(wire
+		(pts
+			(xy 139.7 139.7) (xy 137.16 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e14934e3-db13-43b3-a4b1-432547b80b0b")
+	)
+	(wire
+		(pts
+			(xy 58.42 165.1) (xy 58.42 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3053424-8b5e-47a2-b80b-a2b3b396d8a0")
+	)
+	(wire
+		(pts
+			(xy 138.43 144.78) (xy 138.43 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3cf2065-59e3-4ff2-8d03-881e4295e2e8")
+	)
+	(wire
+		(pts
+			(xy 43.18 119.38) (xy 44.45 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e45697e8-5e40-4bb1-b023-9e688a422d4b")
+	)
+	(wire
+		(pts
+			(xy 92.71 180.34) (xy 92.71 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e54e79c3-4031-4d88-b08d-9aa5acf77256")
+	)
+	(wire
+		(pts
+			(xy 212.09 80.01) (xy 219.71 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e58dc19d-0a71-459d-b2e0-04119f71836f")
+	)
+	(wire
+		(pts
+			(xy 161.29 83.82) (xy 167.64 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5a73142-650d-4edd-a930-9e8d75a651e8")
+	)
+	(wire
+		(pts
+			(xy 109.22 133.35) (xy 109.22 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7a725b3-869b-4d2f-ae29-668c0740ceeb")
+	)
+	(wire
+		(pts
+			(xy 124.46 185.42) (xy 124.46 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7dcc09f-7614-416d-bd0b-45cfa0acfca2")
+	)
+	(wire
+		(pts
+			(xy 106.68 152.4) (xy 106.68 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9c2a5d2-a381-4780-b4fd-5df23ebe28bb")
+	)
+	(wire
+		(pts
+			(xy 55.88 168.91) (xy 72.39 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb3dda0b-3ca1-4d93-b67d-3808d77ecd0a")
+	)
+	(wire
+		(pts
+			(xy 106.68 185.42) (xy 110.49 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eba0c240-b092-401b-a0e2-e8ec4233751b")
+	)
+	(wire
+		(pts
+			(xy 87.63 132.08) (xy 87.63 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eefc2951-2734-4dd3-9f30-741789f313bc")
+	)
+	(wire
+		(pts
+			(xy 106.68 171.45) (xy 106.68 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa8eb3f-4daa-443b-ac8d-14ab6b50c6c5")
+	)
+	(wire
+		(pts
+			(xy 55.88 148.59) (xy 72.39 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1fdfa64-f380-4c99-9d60-fcbcc836d6a5")
+	)
+	(wire
+		(pts
+			(xy 44.45 132.08) (xy 54.61 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f282fe83-d91d-452c-b855-1dcade34757a")
+	)
+	(wire
+		(pts
+			(xy 115.57 99.06) (xy 115.57 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f306bbc9-2710-412e-986d-74f1649aaa54")
+	)
+	(wire
+		(pts
+			(xy 59.69 119.38) (xy 60.96 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39f3184-9704-4a6c-9a78-f6b2c54c800d")
+	)
+	(wire
+		(pts
+			(xy 73.66 139.7) (xy 71.12 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f46a8c25-ca64-4f98-bb4e-05d2e16d81fd")
+	)
+	(wire
+		(pts
+			(xy 59.69 160.02) (xy 60.96 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4bb9dae-0278-4440-80db-c22509732ecf")
+	)
+	(wire
+		(pts
+			(xy 139.7 119.38) (xy 137.16 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4f24e2d-309d-49b3-b948-4af48d551ed3")
+	)
+	(wire
+		(pts
+			(xy 121.92 128.27) (xy 105.41 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f61f0b98-3d20-4e6e-b640-e65cc9a0c0f2")
+	)
+	(wire
+		(pts
+			(xy 90.17 165.1) (xy 90.17 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f64b13ac-c733-4fe7-83dd-9298022e2c32")
+	)
+	(wire
+		(pts
+			(xy 93.98 165.1) (xy 91.44 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f72fda90-5e15-4abe-bce4-2e5d71f99d57")
+	)
+	(wire
+		(pts
+			(xy 29.21 29.21) (xy 29.21 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7f08ddf-e14b-4445-bffd-673a8d4088e7")
+	)
+	(wire
+		(pts
+			(xy 76.2 153.67) (xy 76.2 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb6e418d-e518-406a-b58b-9bee7c2855b9")
+	)
+	(wire
+		(pts
+			(xy 30.48 148.59) (xy 30.48 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe0e7c7a-288e-4b63-8517-86af79770431")
+	)
+	(wire
+		(pts
+			(xy 106.68 180.34) (xy 104.14 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe341516-e040-4fb0-92a9-b4a0f3e4ca73")
+	)
+	(wire
+		(pts
+			(xy 90.17 185.42) (xy 93.98 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe3791aa-b1d5-4f35-94a8-f245e3210f58")
+	)
+	(wire
+		(pts
+			(xy 73.66 160.02) (xy 71.12 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe3c8932-ff7f-45a7-93ae-53edd4fb1acb")
+	)
+	(global_label "col0"
+		(shape input)
+		(at 29.21 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0247c318-91a4-4132-97cd-a77b013fba82")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.21 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row1"
+		(shape input)
+		(at 210.82 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "06f5d05d-2c45-4c8c-9eef-f3cf9139f43a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.3596 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Data"
+		(shape input)
+		(at 210.82 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0de5f2e8-672f-4ffd-ac49-098782297508")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.5411 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
+		(at 219.71 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "115067e8-4532-4458-a6e7-469aac98d2b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.3238 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row2"
+		(shape input)
+		(at 210.82 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19207837-1386-4153-ba05-65997c3c9de7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.3596 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 223.52 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1ae796c8-aea7-4d2d-8b2c-71d4f6207e85")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.3757 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
+		(at 243.84 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e697bb2-7fe5-4c76-87eb-236708285ef6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.4538 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col5"
+		(shape input)
+		(at 243.84 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21c1b87c-de30-4bf2-aa71-8f3b699e6e80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 219.71 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2373944a-5e42-473d-ad9d-0205c586cacc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.2633 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col0"
+		(shape input)
+		(at 243.84 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "269cc4a5-4b66-4d4a-9416-09fd8dca560a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 210.82 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "28943824-43ff-41e1-9842-11ee5ef29c2a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.3272 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2"
+		(shape input)
+		(at 74.93 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35bae43d-2ea7-4b0e-a6b5-dda49de0fdd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row0"
+		(shape input)
+		(at 167.64 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35caa2df-724d-42dc-8588-9572c72d0226")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.1004 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWR"
+		(shape input)
+		(at 265.43 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3df083b0-99b9-4f1d-b1df-1e0a8e09f7fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.4066 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col4"
+		(shape input)
+		(at 121.92 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "424eb7c2-4048-4667-95b8-d4cab8e04e18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 220.98 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "471371ad-8a5c-4953-8803-d9350c9b424a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.8357 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row1"
+		(shape input)
+		(at 167.64 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "472f1106-0a29-4a72-832f-bfb2c48e276b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.1004 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 78.74 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50ddab9e-df5d-4c10-a5dd-92b00937b58f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.8843 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 205.74 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "53212edc-0290-4989-88a8-55ea9f080d44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.8843 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col1"
+		(shape input)
+		(at 53.34 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "550e950e-3ddd-4f33-bf17-0e55539ad7d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.34 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 144.78 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5a070a60-a59e-40c9-a5d5-5910ead9f2c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.6357 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row2"
+		(shape input)
+		(at 167.64 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5d78a0e7-5713-4b41-9ceb-0b937494627a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.1004 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED"
+		(shape input)
+		(at 144.78 180.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "617b235c-5656-4f6b-ad52-acca2ed1e795")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.2123 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
+		(at 223.52 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "629711bc-c4eb-4a3a-ad33-8b4be9b3973e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.1338 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Data"
+		(shape input)
+		(at 223.52 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6647be2b-aaa3-4906-9f6b-8330724c914b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.7989 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 219.71 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "74013e11-b4b2-4d47-ac85-8b544ee82ae7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.5657 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 30.48 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a1a4dc4-57e9-4759-9186-00cced69b68e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 37.3357 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col3"
+		(shape input)
+		(at 97.79 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c93f40a-5575-4bbc-9de8-a10696a9867f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row3"
+		(shape input)
+		(at 167.64 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d19805d-d09c-43b1-ba4c-eb17e8eb5a10")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.1004 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col4"
+		(shape input)
+		(at 243.84 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8293bbde-8871-4220-b699-bf835a7a26bc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EDB"
+		(shape input)
+		(at 210.82 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "858e7baf-7bc1-41cc-919e-929e440cc1bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.1458 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED"
+		(shape input)
+		(at 210.82 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "867c160d-1375-4e22-a74b-04b008b5bd18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.3877 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
+		(at 153.67 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "880d1efa-9f17-4bd7-b0cf-338d1b916ffc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.2838 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EDA"
+		(shape input)
+		(at 210.82 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "88743894-0db7-42a8-95a8-82da2ea1135e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.3272 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EDB"
+		(shape input)
+		(at 78.74 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8991eda4-7923-47af-b038-5f2a655ae1e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.0658 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWR"
+		(shape input)
+		(at 243.84 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c48cdb4-c1d1-459a-9520-e5c2ca261cb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.8166 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col3"
+		(shape input)
+		(at 243.84 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f86ed83-0646-4e88-80b6-0e3d62c21c4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 210.82 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f220ad5-3d0d-42e5-a941-ba52ae9aeafe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.2667 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EDA"
+		(shape input)
+		(at 78.74 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a36695fa-9ce2-4a46-a8ad-3b853ae8de53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.2472 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2"
+		(shape input)
+		(at 243.84 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a3e1561d-b3e9-4101-b7f1-04f908e7693f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 223.52 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a51dd201-05d8-46a3-b34c-077a8d00f1f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.3757 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 243.84 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a6a56984-ba80-4e60-a85b-7f1d2d5fb316")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.6957 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RESET"
+		(shape input)
+		(at 243.84 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aff8ebe8-1161-4532-b153-a943233bba63")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 252.5703 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col1"
+		(shape input)
+		(at 243.84 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c137006d-1afa-4bab-933a-449562b686e2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.9375 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 210.82 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c9a82251-7844-4e47-9fc9-e10e078d2095")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.9643 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row0"
+		(shape input)
+		(at 210.82 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cba084b5-b5f7-453d-b4df-d26d1c6052e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.3596 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row3"
+		(shape input)
+		(at 210.82 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d08545a0-723d-4411-863b-38f1dd4d07c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.3596 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col5"
+		(shape input)
+		(at 146.05 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d957af1d-1e3e-41c1-b2fc-b25cb83d3420")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 17.0325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 219.71 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dcefdcfd-82b4-4aee-a06a-7cd3fad8510a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.2028 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RESET"
+		(shape input)
+		(at 212.09 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea08dc2b-63aa-4b19-86ad-a91f64dfa22b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.3597 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 72.39 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06435095-406b-4f2f-84e9-3167bf8eb492")
+		(property "Reference" "D2"
+			(at 71.12 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 71.12 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 72.39 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ddd571d5-fec7-453b-9f53-e49af9362107")
+		)
+		(pin "1"
+			(uuid "956f5027-53a2-417b-91dc-de8135934a26")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 99.06 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07b07332-d6fe-436b-a003-5548f42b58b3")
+		(property "Reference" "L19"
+			(at 99.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 99.06 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 99.06 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "888de8a5-83dd-4648-a885-184cd49bc177")
+		)
+		(pin "1"
+			(uuid "23972346-c5f1-4b44-9a8c-2437a2d9e40b")
+		)
+		(pin "4"
+			(uuid "cb8eb2d3-aea0-4a48-bc16-81995512c54b")
+		)
+		(pin "3"
+			(uuid "98eaf6c0-c4e8-410b-9bf7-ba9e10141fca")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:TRRS")
+		(at 212.09 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "099221d6-04d2-46c3-b3de-03acb4c48a4d")
+		(property "Reference" "J1"
+			(at 210.82 98.552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 210.82 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:TRRS"
+			(at 212.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 212.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1D"
+			(uuid "105f9732-7447-4370-94a8-227146fa10d0")
+		)
+		(pin "2C"
+			(uuid "69d8b013-275b-485e-bcbf-c95663d2a2e3")
+		)
+		(pin "3B"
+			(uuid "da10f209-bfdf-4383-8bcb-7394d9322d96")
+		)
+		(pin "4A"
+			(uuid "1bb21ce7-480b-4f10-8f4b-01261005f14f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 82.55 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c933b4c-ed0b-47af-8820-97fe76ad2667")
+		(property "Reference" "L9"
+			(at 83.82 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "376fcf05-db20-405e-a1af-a05a7c30ee03")
+		)
+		(pin "4"
+			(uuid "83bdc810-0782-4e1e-a121-60a7d3b571b9")
+		)
+		(pin "3"
+			(uuid "0eb834bf-7b8f-4e9e-abd5-8a4b96fd5a4e")
+		)
+		(pin "1"
+			(uuid "113676d9-df50-41af-b75d-a91c4ef7a971")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 115.57 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dfd841c-68de-4779-9d7e-f8d48163556a")
+		(property "Reference" "L11"
+			(at 115.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 115.57 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "50799fd3-8660-44b0-9d48-7ad02f0e0c56")
+		)
+		(pin "1"
+			(uuid "ac26b42d-d98a-49c1-a8ac-bb98f27a965b")
+		)
+		(pin "4"
+			(uuid "ec4eac11-4d40-417c-8e75-d224a27d2a84")
+		)
+		(pin "3"
+			(uuid "6ee25ac9-fe14-4b0a-b96a-ff2ac9d7fdb1")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 115.57 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e52070c-daea-459c-8c66-be8a08064222")
+		(property "Reference" "L17"
+			(at 115.57 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fb7d4e94-f944-4541-8f61-02900fce2203")
+		)
+		(pin "1"
+			(uuid "154d9ff5-f18b-4f3b-a819-468564330dd0")
+		)
+		(pin "4"
+			(uuid "89133c87-c4e0-4800-af93-c4484e6bc2f0")
+		)
+		(pin "3"
+			(uuid "3f9221c5-d11c-49fe-a929-4e1abe93badb")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 129.54 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e94b1d8-fa09-4775-aacd-86e0bf673f37")
+		(property "Reference" "SW20"
+			(at 129.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6b536fbb-2b33-4c10-b1c2-bf27070c6f6c")
+		)
+		(pin "1"
+			(uuid "11e4d42e-7d47-4c87-b851-9a188809657f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 165.1 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16475960-b453-4eb6-8279-02365c1a5d43")
+		(property "Reference" "D12"
+			(at 163.83 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 163.83 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 165.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d15c0d3b-407e-4866-855f-76e259072ca2")
+		)
+		(pin "1"
+			(uuid "d5ad9ba8-1f60-4232-92df-f9d3f1d70d73")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 99.06 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16812b54-0b46-470f-83c1-0807beb78772")
+		(property "Reference" "L16"
+			(at 99.06 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 99.06 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 99.06 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5089485c-4415-4382-bff7-df7a5c4e992f")
+		)
+		(pin "1"
+			(uuid "c618bd15-3ef5-48b5-a7fc-18249278758d")
+		)
+		(pin "3"
+			(uuid "f112ab10-6cd4-4d52-a7d1-dad9e042d029")
+		)
+		(pin "4"
+			(uuid "054284d7-9585-4d68-9d6e-a331f0a052fb")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 132.08 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d549646-818d-4ab6-8b41-f0c767863845")
+		(property "Reference" "L18"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 132.08 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 132.08 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "55b14d7a-97c4-44bf-851f-36af6c76c47a")
+		)
+		(pin "4"
+			(uuid "49d623cb-b4a9-4c66-964b-3dd77cb18b7f")
+		)
+		(pin "1"
+			(uuid "31293a9f-c038-482a-9bc9-be6eb239f200")
+		)
+		(pin "2"
+			(uuid "d592b0a9-056f-45b8-b07e-b7684928d5a6")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 105.41 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fe94494-4373-40a1-96c3-a79fc22aeb85")
+		(property "Reference" "SW19"
+			(at 105.41 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39ef5e9c-8301-4a28-933a-402985cb5876")
+		)
+		(pin "1"
+			(uuid "261c04d5-0043-471d-bc90-41ec6ef9fcb5")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 49.53 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24dc55ee-6bec-4347-823c-5fd75c7137fe")
+		(property "Reference" "L13"
+			(at 49.53 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d7b15288-b43e-427c-ac6c-09e4ad0f6ef5")
+		)
+		(pin "1"
+			(uuid "0464ba6c-8b91-449b-9eaa-303c03312d0e")
+		)
+		(pin "2"
+			(uuid "9d22ee7b-3e99-49a8-bd0a-24c06d5dbf5e")
+		)
+		(pin "4"
+			(uuid "1a581bd3-b072-438f-b323-aa44c54d234f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Rotary_Encoder")
+		(at 86.36 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "258b5223-8538-463f-91cf-c34f784c241b")
+		(property "Reference" "SW22"
+			(at 86.36 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Rotary_Encoder_Switch"
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "c4d089e1-46fd-486b-8609-eb068691b069")
+		)
+		(pin "C"
+			(uuid "2394209f-e3a0-45ad-a012-f2e09206f217")
+		)
+		(pin "S2"
+			(uuid "e91bf8c8-8cf4-4f04-a21e-830db54d1b4a")
+		)
+		(pin "B"
+			(uuid "010838e1-8a68-4391-895b-7bc197778648")
+		)
+		(pin "S1"
+			(uuid "bf74b148-8d56-48e4-bf6d-bf3d8f601e1c")
+		)
+		(instances
+			(project ""
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 49.53 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "285134d9-6540-49f7-8729-49eb04249ca0")
+		(property "Reference" "L1"
+			(at 49.53 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 49.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5b1df8d3-455e-4e76-a0f7-33dd556e6c03")
+		)
+		(pin "1"
+			(uuid "d804180c-1357-4473-87d3-711bce9c06d1")
+		)
+		(pin "2"
+			(uuid "409bb355-6eed-4782-8a66-7623eb857e0a")
+		)
+		(pin "4"
+			(uuid "e5ce4b6e-7e19-47a3-893f-bf044a299b1c")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Mini_7-Pin_Surface_Mount_ON/Off_SPDT_Switch")
+		(at 260.35 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28bee88d-d914-4a3d-9b50-360fc5eff92e")
+		(property "Reference" "pwr1"
+			(at 260.35 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 260.35 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:OnOff Switch SMB 7-pin"
+			(at 260.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3aacfed7-8c33-47f3-a1c2-4f236b7873c0")
+		)
+		(pin "1"
+			(uuid "e223dc20-73ac-467f-b117-02d51c911048")
+		)
+		(pin "2"
+			(uuid "40b99790-87ee-4430-aab8-b5adbc26b62c")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "pwr1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 153.67 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31671b5a-9f86-41b6-8db3-b6c06482631e")
+		(property "Reference" "SW6"
+			(at 153.67 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 153.67 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4ca59a06-ddc9-4589-b22e-200530e36c2c")
+		)
+		(pin "1"
+			(uuid "47cb2662-fc71-4dba-9fa9-bd715395be82")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:ProMicro-Wireless")
+		(at 227.33 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3193cd05-59ed-4c81-bb11-da018c5af29a")
+		(property "Reference" "U1"
+			(at 227.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:ProMicro-Wireless-Flipped"
+			(at 227.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "62a2bde0-3b3d-481e-94ef-b22c56cc388a")
+		)
+		(pin "3"
+			(uuid "317643e8-c19a-4113-a28d-439164a159db")
+		)
+		(pin "4"
+			(uuid "20e6570d-42e8-4bd3-9247-33cc937dd0ef")
+		)
+		(pin "5"
+			(uuid "c11e3574-e4fd-4041-a2a6-ea246d622a98")
+		)
+		(pin "16"
+			(uuid "2a3a6b59-09f7-4079-9141-53b4e488da69")
+		)
+		(pin "8"
+			(uuid "74507a55-b990-4aee-8c78-d4cc3e2f6057")
+		)
+		(pin "17"
+			(uuid "66a95c21-50b5-46da-98c4-87081a28c58a")
+		)
+		(pin "22"
+			(uuid "2b586774-a4e6-4436-8052-6b46aeab68d9")
+		)
+		(pin "14"
+			(uuid "f466d8b2-23ef-4fec-8ff3-c25b3d7d4812")
+		)
+		(pin "7"
+			(uuid "937ec647-317d-4bd3-907e-3e8edacdccc2")
+		)
+		(pin "18"
+			(uuid "8859eae0-db4e-4041-b651-2ea29f540c20")
+		)
+		(pin "21"
+			(uuid "bb1ae4e6-3fcf-4b45-a951-a75e6ba6c19e")
+		)
+		(pin "1"
+			(uuid "78f20ebc-1230-410f-b62e-a162c4caeffd")
+		)
+		(pin "23"
+			(uuid "709efa0c-adab-489b-ad87-e28974cc35b4")
+		)
+		(pin "12"
+			(uuid "73783736-f6ae-4ac2-bae9-259cc37106aa")
+		)
+		(pin "25"
+			(uuid "416b7309-80f7-4975-b8eb-c5ab76ff4b04")
+		)
+		(pin "20"
+			(uuid "61fdb5ad-92eb-4b03-8dcd-69ff759eee36")
+		)
+		(pin "6"
+			(uuid "00cb26d7-9e3c-408b-9ced-3ba67265d9ec")
+		)
+		(pin "11"
+			(uuid "2b57f323-c304-49ca-b0c0-2c6b014bd870")
+		)
+		(pin "10"
+			(uuid "dbff1426-7e7c-4fa6-9def-ec991cc8db48")
+		)
+		(pin "15"
+			(uuid "b99a4283-fec1-478f-bc96-eb80745116f3")
+		)
+		(pin "19"
+			(uuid "a9751120-06e4-4a4b-b663-8d251a62452a")
+		)
+		(pin "24"
+			(uuid "160a7a93-a50b-4f17-9965-df0b779f965c")
+		)
+		(pin "13"
+			(uuid "140cb990-c5f8-46b3-afec-9b3c6319cdd4")
+		)
+		(pin "2"
+			(uuid "6f8f9a83-1709-4ced-975b-9803a5fd3674")
+		)
+		(pin "0"
+			(uuid "73eaf37f-e425-4a1e-aada-8ea048b4fea0")
+		)
+		(instances
+			(project ""
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 82.55 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3fca4525-e1a7-4a7f-9f16-d8f449974354")
+		(property "Reference" "L3"
+			(at 83.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3cbc86a5-e6dc-4d33-ad83-02634176a651")
+		)
+		(pin "4"
+			(uuid "f1f630c4-3d4f-4270-8046-67d35d9068b5")
+		)
+		(pin "3"
+			(uuid "43a0708d-18ab-42e9-b8d3-c45a04202bf6")
+		)
+		(pin "1"
+			(uuid "91d4c1af-188c-41d2-8b5d-065df8ee1ee4")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 140.97 100.33 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41498922-b57a-444d-8a9b-d109f039132d")
+		(property "Reference" "D20"
+			(at 139.7 99.6949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 140.97 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29defb0e-47a1-447a-95e6-19f985a2e9dd")
+		)
+		(pin "2"
+			(uuid "41d5c17c-8a7e-4c41-838a-0352b4ce06c8")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 72.39 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46bb99d4-feaa-4458-8669-0787fd95b94c")
+		(property "Reference" "D14"
+			(at 71.12 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 71.12 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f5e7b01-0171-42a4-aca8-aff6d8116703")
+		)
+		(pin "2"
+			(uuid "d1b5e171-5de2-4501-a3dc-c9f53f29c5d6")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 129.54 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4967aa56-5676-4495-9387-de98734095d3")
+		(property "Reference" "SW17"
+			(at 129.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 129.54 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 129.54 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "092c7cd6-e078-4119-8641-cf8ea70aefed")
+		)
+		(pin "1"
+			(uuid "48d3cb45-5ae5-45ee-ba61-60c41d77edb9")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 153.67 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d12d9ef-f778-4142-a23e-18efbf8d7b0d")
+		(property "Reference" "SW21"
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-ChocSpacing"
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d82cb960-2880-4129-a389-1e49073ee5fd")
+		)
+		(pin "1"
+			(uuid "d751bb1b-a825-4d9b-8da9-7bf3928c136e")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 140.97 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d54e1bd-9bfa-453b-b06a-532071caf3d9")
+		(property "Reference" "D11"
+			(at 139.7 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 140.97 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "96c1ebbb-7162-4a5f-805b-127a50b8133b")
+		)
+		(pin "2"
+			(uuid "79aa40a4-7e32-4b4a-a345-52ebf3267655")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 82.55 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57b219f0-a5af-48fe-b5c2-e12e5b0059d8")
+		(property "Reference" "SW9"
+			(at 82.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 82.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "941584a1-df83-4c63-ad86-672357fb730c")
+		)
+		(pin "1"
+			(uuid "bd86d501-8d96-4328-8ef6-f0400403f5cc")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 116.84 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "584dfa00-977c-4d05-ad75-548f93f4aaa6")
+		(property "Reference" "D10"
+			(at 115.57 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d41dd64-346a-4b08-892e-0d6f6c8f045d")
+		)
+		(pin "2"
+			(uuid "900229a1-6a45-4ea2-85eb-a8c813ca820f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 36.83 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5dcb771a-a1d2-4237-a81e-cbcbb4fb21c6")
+		(property "Reference" "SW7"
+			(at 36.83 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 36.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 36.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0044b4d5-ff2c-438d-a532-5a9627bdc79f")
+		)
+		(pin "1"
+			(uuid "e225b18f-4373-4dd5-98ce-776d61203312")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 105.41 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e6dff66-a3da-48da-b8d1-01e458d056d7")
+		(property "Reference" "SW4"
+			(at 105.41 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "652e14b6-70f2-4032-9775-1a8d5cc884a9")
+		)
+		(pin "1"
+			(uuid "31c910bb-26d5-43d4-a009-e20613661e2d")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 82.55 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66401abf-d3a3-4d43-92cc-bcb214865724")
+		(property "Reference" "SW15"
+			(at 82.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 82.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "478e6577-541b-49e9-b2db-b41003aca6aa")
+		)
+		(pin "1"
+			(uuid "31dcdf9d-8efc-403d-88b6-8fd250de3c12")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 116.84 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "671f5c90-2f22-4cf9-9065-560ad9124d18")
+		(property "Reference" "D4"
+			(at 115.57 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 116.84 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "67efaa4f-2cc9-4d13-9409-d5a8b10061b3")
+		)
+		(pin "1"
+			(uuid "d54326e7-0584-458c-bab7-f1c82d59e3e7")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 153.67 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "685a7aa3-88a3-49c7-895d-32f4632d7226")
+		(property "Reference" "SW18"
+			(at 153.67 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 153.67 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d7e33124-da67-41d4-9cbc-add895a24f8d")
+		)
+		(pin "1"
+			(uuid "cb347037-620b-478a-87a4-5ef5a68dfbea")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 165.1 100.33 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "695f53e4-fd83-4b20-b510-6c859dc31402")
+		(property "Reference" "D21"
+			(at 163.83 99.6949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 163.83 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4136b8c3-d9ce-4199-9b1b-b07c2e09646c")
+		)
+		(pin "2"
+			(uuid "3d3b5646-59aa-414f-a689-ab2ae8241209")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 49.53 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6da254ad-4371-4b0c-9ff0-ddcc1fffba50")
+		(property "Reference" "L7"
+			(at 49.53 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 49.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "57ce900a-b371-48f6-9822-f9b54e20d68b")
+		)
+		(pin "1"
+			(uuid "95d023bb-b077-4a2f-a59c-56260d68c13b")
+		)
+		(pin "2"
+			(uuid "07942fff-912e-45ef-a3d3-c625e9938c31")
+		)
+		(pin "4"
+			(uuid "674b4d33-6483-4f68-8b53-cf95e5c2b3d5")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 48.26 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e97c7fb-e608-4c3d-a71e-245bd86a4558")
+		(property "Reference" "D1"
+			(at 46.99 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 46.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 48.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4b7deae-9858-4c35-b5ae-095f0ecb9033")
+		)
+		(pin "2"
+			(uuid "d995b518-9185-4390-b8f4-39ca05f6120f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 66.04 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "733c7b5c-38fa-493e-b5f6-7736dadee51f")
+		(property "Reference" "L14"
+			(at 66.04 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 66.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 66.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "80d1b9fe-344e-4f52-bca4-5ce937d16133")
+		)
+		(pin "1"
+			(uuid "ea2d7950-41da-4d63-8f59-690d7de7ed1e")
+		)
+		(pin "2"
+			(uuid "4aec2291-6589-490e-9a10-ccd9baa485bf")
+		)
+		(pin "3"
+			(uuid "b4b80e12-e313-4e70-b848-4720b7d5224c")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 93.98 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76a5579b-8d5e-4c12-a3ef-abb913a94197")
+		(property "Reference" "D3"
+			(at 92.71 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 92.71 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 93.98 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1eb1e5b-4b8b-4aec-9898-9f844d690d97")
+		)
+		(pin "2"
+			(uuid "37ed2413-7d52-422e-87be-16f1090f0178")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 99.06 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79e578b4-da9e-48ff-af39-59031a4a3da1")
+		(property "Reference" "L10"
+			(at 99.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 99.06 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 99.06 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c744baa2-94b6-49b3-9fb5-1f1fd1692bec")
+		)
+		(pin "1"
+			(uuid "6d8b7328-68b4-4708-afc2-29676e12c932")
+		)
+		(pin "3"
+			(uuid "4d2dc763-c91e-4179-afd8-c50aca3a5f83")
+		)
+		(pin "4"
+			(uuid "0fd59829-4787-4232-ad38-8395945e2a16")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 66.04 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "862c0c0b-406e-43f2-a53d-915348166f74")
+		(property "Reference" "L2"
+			(at 66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "f448eaff-cb05-433c-9012-3e10c55897e7")
+		)
+		(pin "1"
+			(uuid "be3cab9b-b0bc-4df6-b8dc-955e0e541505")
+		)
+		(pin "2"
+			(uuid "46f7ddb8-3962-4312-b652-6d8ddde6138f")
+		)
+		(pin "3"
+			(uuid "c0caa8cd-607d-4656-953d-8611e9fd1ef2")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 165.1 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86b4e7c3-80e5-484e-aae9-49dd7f493558")
+		(property "Reference" "D18"
+			(at 163.83 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 163.83 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "381e4fa5-c590-4d92-93d1-10e2ab4bfa8a")
+		)
+		(pin "1"
+			(uuid "72c69add-2ad9-4017-bbe6-130bb9e91440")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 60.96 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "895e1893-ec21-4be0-a5a9-46a3a557fd07")
+		(property "Reference" "SW8"
+			(at 60.96 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 60.96 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 60.96 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "76db74c4-4bb4-4c00-872e-50ead9ae5891")
+		)
+		(pin "1"
+			(uuid "94b1c2b8-a40d-46ea-ad37-4a7df4123557")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 60.96 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a904f13-3985-4ce0-b70e-6760e62a250f")
+		(property "Reference" "SW2"
+			(at 60.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "99537729-77bd-4c06-988a-c77c91f38bd5")
+		)
+		(pin "1"
+			(uuid "a7bfe59d-1e8e-48e7-8300-a74d9a268f6d")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 105.41 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c6f9d80-7417-4dda-9930-4dd274e1fe80")
+		(property "Reference" "SW10"
+			(at 105.41 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 105.41 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 105.41 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a4d47b45-ecb8-45ad-914c-fde85a56b92f")
+		)
+		(pin "1"
+			(uuid "47fb880c-3777-49e7-9add-ee308dfc4cd1")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 140.97 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d8a56fc-074a-45f7-8c8a-f0f595f52125")
+		(property "Reference" "D17"
+			(at 139.7 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 140.97 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13edf7b8-47e3-4744-8c13-179074a07c41")
+		)
+		(pin "2"
+			(uuid "6761a866-8a1b-4a47-b637-64e12ac39312")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 115.57 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f1dc75f-7c17-4f5d-b6f2-3ade3b47008f")
+		(property "Reference" "L5"
+			(at 115.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 115.57 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "89fdb9b0-977c-4a2f-8ac1-cf411c69b5bf")
+		)
+		(pin "1"
+			(uuid "a0ac2e76-5aa1-4f3a-8bed-a3bbee5f6a14")
+		)
+		(pin "4"
+			(uuid "63d1b870-5a2d-4dc1-89b1-0a283848b0ed")
+		)
+		(pin "3"
+			(uuid "13b79149-0717-433f-b89d-0a685d57d744")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 82.55 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "92ea107d-cf4a-4542-9db5-46a9963f1ffa")
+		(property "Reference" "L15"
+			(at 83.82 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bc6f19b0-fadf-4aed-91ef-2d3dfb7d7fe8")
+		)
+		(pin "4"
+			(uuid "7b0c459c-f04b-4716-a13c-da6f721a6c13")
+		)
+		(pin "3"
+			(uuid "5db2802d-5aac-41e8-a27a-8b40d88517f7")
+		)
+		(pin "1"
+			(uuid "25e6ab96-39e9-484f-9949-f25d2141e648")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 116.84 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95c923af-e946-4c03-be10-b6e6750b06ca")
+		(property "Reference" "D16"
+			(at 115.57 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2fcd2d9-db5b-4859-9f59-8594cb9dfcc5")
+		)
+		(pin "2"
+			(uuid "3cf71067-f254-4f76-b6f7-d7619493c2af")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 82.55 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "962c6fdf-df52-4adf-9d37-095e4a2c8eef")
+		(property "Reference" "SW3"
+			(at 82.55 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 82.55 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "744a10e7-e148-4282-9e18-b347f11ee24d")
+		)
+		(pin "1"
+			(uuid "608f69a8-63a3-4f9f-b493-a28d63183cb2")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 36.83 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a15b7c44-9f35-402e-af45-68c7ffc3402c")
+		(property "Reference" "SW13"
+			(at 36.83 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 36.83 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 36.83 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c42d7c2c-8831-49e3-a6b6-a658ee4a18f2")
+		)
+		(pin "1"
+			(uuid "c74a05ca-9703-4f1f-9e5e-d3bba40de223")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Tactile_Push_Button_Micro_Reset_Switch_4_4_1.5mm")
+		(at 215.9 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a25fc355-e5d2-476f-af7c-1107442b41b4")
+		(property "Reference" "RS1"
+			(at 212.852 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 215.9 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Tactile Push Button Micro Reset Switch 4_4_1.5mm"
+			(at 215.9 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 215.9 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f797a648-e308-44cd-a3bb-80fcb079ef54")
+		)
+		(pin "2"
+			(uuid "eae0fb9d-15b1-4124-bf04-d75f001beac3")
+		)
+		(pin "1"
+			(uuid "93a0c6fd-ec66-4a6e-bd08-1ad3a7164200")
+		)
+		(pin "2"
+			(uuid "2c240555-79f0-43c4-a51d-ecc9e9cc90c2")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "RS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 129.54 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a52d3492-e763-44fa-96b3-ee20a55798d9")
+		(property "Reference" "SW11"
+			(at 129.54 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 129.54 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 129.54 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ac560d87-9d08-4594-85ba-4607ea92e5b1")
+		)
+		(pin "1"
+			(uuid "9d6887e2-a3e2-4bc0-a6a2-2b6be1f004ef")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:OLED 4-Pin")
+		(at 214.63 133.35 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7afdb0c-886c-4db7-b2bb-facad3f23edf")
+		(property "Reference" "J2"
+			(at 214.63 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 214.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:OLED"
+			(at 214.63 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 214.63 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "13bd1e05-36a5-4908-9e27-82c5def56ed4")
+		)
+		(pin "1"
+			(uuid "a148ee5c-53f2-4fe1-929d-4881aeb55da8")
+		)
+		(pin "2"
+			(uuid "63ba5fcb-fea6-4189-b748-3461dfb2be35")
+		)
+		(pin "3"
+			(uuid "022668b8-3816-4815-b006-81d8ec3be040")
+		)
+		(instances
+			(project ""
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 60.96 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aeda4d6a-a6cc-461a-9498-923b36d88e97")
+		(property "Reference" "SW14"
+			(at 60.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c637777b-b8a8-40df-8d01-efbcf8cf0aad")
+		)
+		(pin "1"
+			(uuid "ea265a3e-a852-4726-9fe5-b9e20d78cf21")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 132.08 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b162ca60-93cb-40a7-881b-94513049778f")
+		(property "Reference" "L12"
+			(at 132.08 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "40026d2e-58dc-43ed-8d26-4366accaae8a")
+		)
+		(pin "4"
+			(uuid "d8657491-f77c-45e4-b380-3f15280bab8d")
+		)
+		(pin "1"
+			(uuid "ebae5633-e388-488b-ac7e-999296cdda98")
+		)
+		(pin "2"
+			(uuid "e808f916-8522-49a0-8367-fb7d38f4b137")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 93.98 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b20214d5-ff6d-4afb-8edd-309a9cda70bd")
+		(property "Reference" "D9"
+			(at 92.71 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 92.71 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 93.98 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "374c881b-7f63-41c8-ab42-f158d2b00cb4")
+		)
+		(pin "2"
+			(uuid "be496609-b392-4376-a6e1-207c4537b63e")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 72.39 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2341924-c9eb-4dc7-82a5-4ce389dda0f3")
+		(property "Reference" "D8"
+			(at 71.12 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 71.12 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 72.39 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "904a2788-bac4-4ad3-8bc8-10207e7d3166")
+		)
+		(pin "1"
+			(uuid "184d8506-b425-4571-a636-83afba77728d")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 105.41 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b46b6d2b-b84e-4c59-8f91-9cb7d3bd93f3")
+		(property "Reference" "SW16"
+			(at 105.41 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 105.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 105.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "74e4a4e8-403d-4eeb-a52b-b5172137fb15")
+		)
+		(pin "1"
+			(uuid "b37bdb15-b8b0-4bdc-8a56-eb22812459ce")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Diode-1N4148W_1")
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 165.1 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6b70d7a-c3fe-40b4-ae7b-f456c0d5db4e")
+		(property "Reference" "D6"
+			(at 163.83 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 163.83 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 165.1 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3cea205b-a5ea-4b1d-80bd-dec1895601f5")
+		)
+		(pin "2"
+			(uuid "7922d848-e1a0-479a-9cb5-1d2d59a371dc")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 93.98 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9e170f7-0b5e-49f3-b55c-399e3cb8776a")
+		(property "Reference" "D15"
+			(at 92.71 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 92.71 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bbc45e58-3177-4471-a12d-4d5df6641eed")
+		)
+		(pin "2"
+			(uuid "580ba54b-3efd-4620-bbcb-112287209f79")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:JST-Power-2Pin")
+		(at 204.47 21.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bbb0e2a7-f4ad-48d4-aae4-943f0de67ad7")
+		(property "Reference" "J3"
+			(at 203.835 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 203.835 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:JST-PH_2mm"
+			(at 204.47 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a42193ee-d5e7-4b2e-9d1b-c0bee46b2e9c")
+		)
+		(pin "2"
+			(uuid "127d3658-e34a-49a7-98fb-8d597bb84061")
+		)
+		(instances
+			(project ""
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 120.65 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd48bdb7-f743-450f-9fa5-c2b32e5e59a6")
+		(property "Reference" "D19"
+			(at 120.65 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 120.65 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 120.65 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 120.65 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "431f3e8c-7e1c-4431-a09d-88ba9e37dab2")
+		)
+		(pin "1"
+			(uuid "861cc231-3d90-4d19-8a91-cae2884e966e")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 129.54 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c002c5af-d2f9-43c5-b613-5611764d58e6")
+		(property "Reference" "SW5"
+			(at 129.54 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 129.54 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 129.54 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "462dd5d6-08d6-4598-8670-0d0d893da45d")
+		)
+		(pin "1"
+			(uuid "be418498-6d77-4ae0-9005-857b6c8651cd")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 48.26 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d266499e-e976-4a4b-a472-5ae1b7f785dc")
+		(property "Reference" "D7"
+			(at 46.99 55.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 46.99 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d348e770-f74c-4f7f-a613-cc26cf8dc580")
+		)
+		(pin "1"
+			(uuid "46769d1d-a193-4b2a-9731-25c359f56c3c")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 99.06 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d515efb8-3ee9-4f09-b483-33bafbeaaf7a")
+		(property "Reference" "L4"
+			(at 99.06 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4ac076fe-b0e6-4d11-8c72-499b6d066d2f")
+		)
+		(pin "1"
+			(uuid "275fadfd-d9f8-443d-92db-37e3358ea15a")
+		)
+		(pin "3"
+			(uuid "df791505-88fd-4c42-9be3-6e271bbdbd1d")
+		)
+		(pin "4"
+			(uuid "4e3b8288-b5dd-426e-869d-90bf0dfd660f")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 153.67 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8847783-13d1-414c-bf9e-c9778642a4fa")
+		(property "Reference" "SW12"
+			(at 153.67 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 153.67 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "617f3c1f-4983-4a45-bb73-24a22ad0fbde")
+		)
+		(pin "1"
+			(uuid "4c14439c-e735-4254-bcc0-e47deeec1bd0")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 132.08 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da86a018-3b12-4f65-b73a-9337724ea3c2")
+		(property "Reference" "L6"
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 132.08 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 132.08 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ea7fe9fd-f93a-476b-87e6-4aedfdcea3c1")
+		)
+		(pin "4"
+			(uuid "e27eec9f-dd5f-44e3-81c4-b4a84f0bc783")
+		)
+		(pin "1"
+			(uuid "a04ad914-afef-460f-997b-d1d26c088bc6")
+		)
+		(pin "2"
+			(uuid "c0a3bd86-103d-4734-a8e4-e88820ec6e05")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 140.97 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e694150c-d806-45c4-9162-765e55608539")
+		(property "Reference" "D5"
+			(at 139.7 33.6549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 140.97 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "487164a8-b8c5-4ed7-9d98-b22cbdbc6f86")
+		)
+		(pin "1"
+			(uuid "f88032e5-5a52-483b-adea-32100389c828")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Kailh-Choc")
+		(at 36.83 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "efc8f158-2662-4c36-961d-eb4954648a98")
+		(property "Reference" "SW1"
+			(at 36.83 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 36.83 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:Kailh-Choc-1u-MxSpacing"
+			(at 36.83 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "48cdc9b9-922a-4750-89a9-041d65f4413a")
+		)
+		(pin "1"
+			(uuid "8bf06896-7d4b-4710-89d5-da45cb2ca556")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 132.08 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f240998d-9b9b-4e23-ad62-fe5f73d3669a")
+		(property "Reference" "L21"
+			(at 132.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 132.08 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 132.08 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a34192a1-933b-4a74-843e-e1c1b7c8c7c7")
+		)
+		(pin "3"
+			(uuid "6881d359-0026-4198-a82a-b9b7bf4fcbdc")
+		)
+		(pin "4"
+			(uuid "c924f70b-1d2c-4b99-a814-9d898f2abf2e")
+		)
+		(pin "2"
+			(uuid "1969e71a-add9-44cb-957a-a85442bfcfe9")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:Diode-1N4148W")
+		(at 48.26 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f859d9ba-ec0e-4ce9-bd4d-14d424196169")
+		(property "Reference" "D13"
+			(at 46.99 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 46.99 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Turkey:Diode"
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b1e1d19-320f-4a61-8bb0-c455354fc27e")
+		)
+		(pin "2"
+			(uuid "db1092f7-c9cd-4a82-830e-8e8907eeba80")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 66.04 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb93b2c0-57e3-4db8-8be8-3ee3b8e0612b")
+		(property "Reference" "L8"
+			(at 66.04 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 66.04 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 66.04 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "a4fe6fca-b4e9-473b-aee1-f72ee1bb7d99")
+		)
+		(pin "1"
+			(uuid "845f4bf1-216e-485b-b9df-ba2fd499e4a6")
+		)
+		(pin "2"
+			(uuid "52ea8e23-e27e-49e7-a9ec-8f968a4f31e6")
+		)
+		(pin "3"
+			(uuid "5f511251-a24c-4c81-afe3-34845c691338")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Turkey:SK6812-Mini-E")
+		(at 115.57 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe1d59b1-344c-443e-b022-448398cfa791")
+		(property "Reference" "L20"
+			(at 115.57 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Turkey:LED SK6812-MiniE"
+			(at 115.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6262d81-ee79-4df5-a9b0-478624fe294b")
+		)
+		(pin "2"
+			(uuid "7d23f865-acf1-468d-a761-33940b23b795")
+		)
+		(pin "4"
+			(uuid "eef684b4-265b-4660-8cd4-ed5d7752f4a2")
+		)
+		(pin "3"
+			(uuid "9246c44c-659f-49c1-b8dc-afca9f8356e5")
+		)
+		(instances
+			(project "Turkey-Corne-Kit"
+				(path "/045d2ee7-3986-4d38-bc1c-ff181208b05f/44b674c7-0f30-4813-bf5d-b4ab62de793e"
+					(reference "L20")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
