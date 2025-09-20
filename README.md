@@ -30,12 +30,6 @@ Use the following Affiliate Links or our store for all the components you need f
 - SK6812 Mini-E RGB Per Key Lighting
   - 1 Package of https://amzn.to/4kT79zu
   - Qty 5 from https://turkeyboards.com/products/per-key-mini-e-rgb-leds-sk6812
-- 0.91 Inch OLED Display
-  - https://amzn.to/4k4Hra7
-  - Qty 2 from https://turkeyboards.com/products/oled-display-modules
-- Optional Rotary Encoder EC11
-  - 1 Package of https://amzn.to/4k6LUJf
-  - 1 Set from https://turkeyboards.com/products/rotary-encoders
 - Reset Tactile Switch 4x4x1.5mm Momentary PCB SMT Mount 4 Pins Push Button
   - 1 Package of https://amzn.to/425W46J
   - https://turkeyboards.com/products/surface-mount-momentary-reset-switch
@@ -48,6 +42,17 @@ Use the following Affiliate Links or our store for all the components you need f
   - 1 Pack of https://amzn.to/41DkEeS
 - USB-C Cable
   - https://turkeyboards.com/products/usb-c-cables
+
+## Optional Components
+
+Use the following Affiliate Links or our store for all the components you need for your build.
+
+- Optional 0.91 Inch OLED Display
+  - https://amzn.to/4k4Hra7
+  - Qty 2 from https://turkeyboards.com/products/oled-display-modules
+- Optional Rotary Encoder EC11
+  - 1 Package of https://amzn.to/4k6LUJf
+  - 1 Set from https://turkeyboards.com/products/rotary-encoders
 
 ## Wired QMK Build Specific Components
 
