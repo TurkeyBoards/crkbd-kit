@@ -15,7 +15,7 @@ Wireless Not offered yet. We are still working on the ZMK firmware
 - OLED Support
 - Encoder Support - Supports up to 2 rotary encoders, one on each half.
 
-Don't want to build this? You can order a completed and fully tested keyboard from https://turkeyboards.com
+Don't want to build this? You can order a completed and fully tested keyboard from https://turkeyboards.com/products/turkey-crkbd-kit
 
 # Components Needed
 
