@@ -1,3 +1,4 @@
+</Images/Turkey-CRKBD-Kit.png>
 # Turkey Corne Kit Keyboard
 The Corne (CRKBD) is a compact, split ergonomic keyboard designed for comfort, efficiency, and portability. Featuring a 40% layout with column-staggered keys, it reduces finger travel and promotes a more natural hand position, helping to minimize strain during long typing sessions. Because of this its one of, if not the most, famous and popular keyboard designs.
 
